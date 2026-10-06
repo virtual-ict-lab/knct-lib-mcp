@@ -1,0 +1,1942 @@
+[
+  {
+    "value": "jpn",
+    "label": "日本語(Japanese)"
+  },
+  {
+    "value": "eng",
+    "label": "英語(English)"
+  },
+  {
+    "value": "chi",
+    "label": "中国語(Chinese)"
+  },
+  {
+    "value": "fre",
+    "label": "フランス語(French)"
+  },
+  {
+    "value": "ger",
+    "label": "ドイツ語(German)"
+  },
+  {
+    "value": "ita",
+    "label": "イタリア語(Italian)"
+  },
+  {
+    "value": "tha",
+    "label": "タイ語(Thai)"
+  },
+  {
+    "value": "kor",
+    "label": "朝鮮語(Korean)"
+  },
+  {
+    "value": "por",
+    "label": "ポルトガル語(Portuguese)"
+  },
+  {
+    "value": "rus",
+    "label": "ロシア語(Russian)"
+  },
+  {
+    "value": "spa",
+    "label": "スペイン語(Spanish)"
+  },
+  {
+    "value": "abk",
+    "label": "Abkhaz"
+  },
+  {
+    "value": "ace",
+    "label": "アチェー語(Achinese)"
+  },
+  {
+    "value": "ach",
+    "label": "Acoli"
+  },
+  {
+    "value": "ada",
+    "label": "Adangme"
+  },
+  {
+    "value": "ady",
+    "label": "Adygei"
+  },
+  {
+    "value": "aar",
+    "label": "Afar"
+  },
+  {
+    "value": "afh",
+    "label": "Afrihili(Artificial language)"
+  },
+  {
+    "value": "afr",
+    "label": "アフリカーンス語(Afrikaans)"
+  },
+  {
+    "value": "afa",
+    "label": "セム・ハム諸語(Afro-Asiatic (Other))"
+  },
+  {
+    "value": "ain",
+    "label": "Ainu"
+  },
+  {
+    "value": "aka",
+    "label": "アカン語(Akan)"
+  },
+  {
+    "value": "akk",
+    "label": "アッカド語(Akkadian)"
+  },
+  {
+    "value": "alb",
+    "label": "アルバニア語(Albanian)"
+  },
+  {
+    "value": "ale",
+    "label": "アレウト語(Aleut)"
+  },
+  {
+    "value": "alg",
+    "label": "アルゴンキアン語族(Algonquian languages)"
+  },
+  {
+    "value": "alt",
+    "label": "Altai"
+  },
+  {
+    "value": "amh",
+    "label": "アムハラ語(Amharic)"
+  },
+  {
+    "value": "anp",
+    "label": "Angika"
+  },
+  {
+    "value": "apa",
+    "label": "アパッチ語族(Apache languages)"
+  },
+  {
+    "value": "ara",
+    "label": "アラビア語(Arabic)"
+  },
+  {
+    "value": "arg",
+    "label": "Aragonese Spanish"
+  },
+  {
+    "value": "arc",
+    "label": "アラム語(Aramaic)"
+  },
+  {
+    "value": "arp",
+    "label": "アラパホー語(Arapaho)"
+  },
+  {
+    "value": "arn",
+    "label": "Mapuche"
+  },
+  {
+    "value": "arw",
+    "label": "アラワク語(Arawak)"
+  },
+  {
+    "value": "arm",
+    "label": "アルメニア語(Armenian)"
+  },
+  {
+    "value": "art",
+    "label": "人工諸語(Artificial (Other))"
+  },
+  {
+    "value": "asm",
+    "label": "アッサム語(Assamese)"
+  },
+  {
+    "value": "ath",
+    "label": "アサパスカン諸語(Athapascan (Other))"
+  },
+  {
+    "value": "aus",
+    "label": "Australian languages"
+  },
+  {
+    "value": "ava",
+    "label": "アヴァル語(Avaric)"
+  },
+  {
+    "value": "ave",
+    "label": "アヴェスタ語(Avesta)"
+  },
+  {
+    "value": "awa",
+    "label": "Awadhi"
+  },
+  {
+    "value": "aym",
+    "label": "アイマラ語(Aymara)"
+  },
+  {
+    "value": "aze",
+    "label": "アゼルバイジャン語(Azerbaijani)"
+  },
+  {
+    "value": "ast",
+    "label": "Bable"
+  },
+  {
+    "value": "ang",
+    "label": "古期英語(English, Old (ca. 450-1100))"
+  },
+  {
+    "value": "ban",
+    "label": "バリ語(Balinese)"
+  },
+  {
+    "value": "bat",
+    "label": "バルト諸語(Baltic (Other))"
+  },
+  {
+    "value": "bal",
+    "label": "バルーチー語(Baluchi)"
+  },
+  {
+    "value": "bam",
+    "label": "バンバラ語(Bambara)"
+  },
+  {
+    "value": "bai",
+    "label": "Bamileke languages"
+  },
+  {
+    "value": "bad",
+    "label": "Banda languages"
+  },
+  {
+    "value": "bnt",
+    "label": "バントゥ諸語(Bantu (Other))"
+  },
+  {
+    "value": "bas",
+    "label": "Basa"
+  },
+  {
+    "value": "bak",
+    "label": "バシキール語(Bashkir)"
+  },
+  {
+    "value": "baq",
+    "label": "バスク語(Basque)"
+  },
+  {
+    "value": "btk",
+    "label": "バタク語(Batak)"
+  },
+  {
+    "value": "bej",
+    "label": "ベジャ語(Beja)"
+  },
+  {
+    "value": "bel",
+    "label": "Belarusian"
+  },
+  {
+    "value": "bem",
+    "label": "ベンバ語(Bemba)"
+  },
+  {
+    "value": "ben",
+    "label": "ベンガル語(Bengali)"
+  },
+  {
+    "value": "ber",
+    "label": "ベルベル諸語(Berber (Other))"
+  },
+  {
+    "value": "bho",
+    "label": "ボージプリー語(Bhojpuri)"
+  },
+  {
+    "value": "bih",
+    "label": "Bihari (Other)"
+  },
+  {
+    "value": "bik",
+    "label": "ビコル語(Bikol)"
+  },
+  {
+    "value": "bin",
+    "label": "Edo (Bini)"
+  },
+  {
+    "value": "bis",
+    "label": "Bislama"
+  },
+  {
+    "value": "bos",
+    "label": "Bosnian"
+  },
+  {
+    "value": "bra",
+    "label": "Braj"
+  },
+  {
+    "value": "bre",
+    "label": "ブルトン語(Breton)"
+  },
+  {
+    "value": "bug",
+    "label": "ブギ語(Buginese)"
+  },
+  {
+    "value": "bul",
+    "label": "ブルガリア語(Bulgarian)"
+  },
+  {
+    "value": "bua",
+    "label": "Buriat"
+  },
+  {
+    "value": "bur",
+    "label": "ビルマ語(Burmese)"
+  },
+  {
+    "value": "byn",
+    "label": "Bilin"
+  },
+  {
+    "value": "bla",
+    "label": "Siksika"
+  },
+  {
+    "value": "cad",
+    "label": "カドー語(Caddo)"
+  },
+  {
+    "value": "car",
+    "label": "カリブ語(Carib)"
+  },
+  {
+    "value": "cat",
+    "label": "カタロニア語(Catalan)"
+  },
+  {
+    "value": "cau",
+    "label": "コーカサス諸語(Caucasian (Other))"
+  },
+  {
+    "value": "ceb",
+    "label": "セブアノ語(Cebuano)"
+  },
+  {
+    "value": "cel",
+    "label": "ケルト諸語(Celtic (Other))"
+  },
+  {
+    "value": "cai",
+    "label": "中米インディアン諸語(Central American Indian (Other))"
+  },
+  {
+    "value": "chg",
+    "label": "チャガタイ語(Chagatai)"
+  },
+  {
+    "value": "cmc",
+    "label": "Chamic languages"
+  },
+  {
+    "value": "cha",
+    "label": "チャモロ語(Chamorro)"
+  },
+  {
+    "value": "che",
+    "label": "チェチェン語(Chechen)"
+  },
+  {
+    "value": "chr",
+    "label": "チェロキー語(Cherokee)"
+  },
+  {
+    "value": "chy",
+    "label": "シャイアン語(Cheyenne)"
+  },
+  {
+    "value": "chb",
+    "label": "チブチャ語(Chibcha)"
+  },
+  {
+    "value": "chn",
+    "label": "ビーチ・ラ・マー等(Chinook jargon)"
+  },
+  {
+    "value": "chp",
+    "label": "Chipewyan"
+  },
+  {
+    "value": "cho",
+    "label": "チョクトー語(Choctaw)"
+  },
+  {
+    "value": "chu",
+    "label": "教会スラブ語(Church Slavic)"
+  },
+  {
+    "value": "chv",
+    "label": "チュヴァシュ語(Chuvash)"
+  },
+  {
+    "value": "cop",
+    "label": "コプト語(Coptic)"
+  },
+  {
+    "value": "cor",
+    "label": "コーンウォール語(Cornish)"
+  },
+  {
+    "value": "cos",
+    "label": "Corsican"
+  },
+  {
+    "value": "cre",
+    "label": "クリー語(Cree)"
+  },
+  {
+    "value": "cpe",
+    "label": "英語が基盤の混成語・混合語(Creoles and Pidgins, English-based (Other))"
+  },
+  {
+    "value": "cpf",
+    "label": "仏語が基盤の混成語・混合語(Creoles and Pidgins, French-based (Other))"
+  },
+  {
+    "value": "cpp",
+    "label": "葡語が基盤の混成語・混合語(Creoles and Pidgins, Portuguese-based (Other))"
+  },
+  {
+    "value": "crp",
+    "label": "その他の混成語・混合語(Creoles and Pidgins (Other))"
+  },
+  {
+    "value": "crh",
+    "label": "Crimean Tatar"
+  },
+  {
+    "value": "csb",
+    "label": "Kashubian"
+  },
+  {
+    "value": "cus",
+    "label": "クシュ諸語(Cushitic (Other))"
+  },
+  {
+    "value": "cze",
+    "label": "チェコ語(Czech)"
+  },
+  {
+    "value": "chm",
+    "label": "Mari"
+  },
+  {
+    "value": "cnr",
+    "label": "モンテネグロ語(Montenegrin)"
+  },
+  {
+    "value": "chk",
+    "label": "Chuukese (Truk)"
+  },
+  {
+    "value": "dak",
+    "label": "ダコタ語(Dakota)"
+  },
+  {
+    "value": "dan",
+    "label": "デンマーク語(Danish)"
+  },
+  {
+    "value": "dar",
+    "label": "Dargwa"
+  },
+  {
+    "value": "day",
+    "label": "ダヤク語(Dayak)"
+  },
+  {
+    "value": "del",
+    "label": "デラウェア語(Delaware)"
+  },
+  {
+    "value": "din",
+    "label": "ディンカ語(Dinka)"
+  },
+  {
+    "value": "div",
+    "label": "Divehi"
+  },
+  {
+    "value": "doi",
+    "label": "Dogri"
+  },
+  {
+    "value": "dgr",
+    "label": "Dogrib"
+  },
+  {
+    "value": "dra",
+    "label": "ドラヴィダ諸語(Dravidian (Other))"
+  },
+  {
+    "value": "dsb",
+    "label": "Lower Sorbian"
+  },
+  {
+    "value": "dua",
+    "label": "Duala"
+  },
+  {
+    "value": "dut",
+    "label": "オランダ語(Dutch)"
+  },
+  {
+    "value": "dum",
+    "label": "中世オランダ語(Dutch, Middle (ca. 1050-1350))"
+  },
+  {
+    "value": "dyu",
+    "label": "Dyula"
+  },
+  {
+    "value": "dzo",
+    "label": "ゾンカ語(Dzongkha)"
+  },
+  {
+    "value": "den",
+    "label": "Slavey"
+  },
+  {
+    "value": "efi",
+    "label": "エフィク語(Efik)"
+  },
+  {
+    "value": "egy",
+    "label": "エジプト語(Egyptian)"
+  },
+  {
+    "value": "eka",
+    "label": "Ekajuk"
+  },
+  {
+    "value": "elx",
+    "label": "エラム語(Elamite)"
+  },
+  {
+    "value": "enm",
+    "label": "中世英語(English, Middle (1100-1500))"
+  },
+  {
+    "value": "epo",
+    "label": "エスペラント(Esperanto)"
+  },
+  {
+    "value": "est",
+    "label": "エストニア語(Estonian)"
+  },
+  {
+    "value": "ewe",
+    "label": "エウェ語(Ewe)"
+  },
+  {
+    "value": "ewo",
+    "label": "Ewondo"
+  },
+  {
+    "value": "fan",
+    "label": "Fang"
+  },
+  {
+    "value": "fat",
+    "label": "ファンティー語(Fanti)"
+  },
+  {
+    "value": "fao",
+    "label": "フェロー語(Faroese)"
+  },
+  {
+    "value": "fij",
+    "label": "フィジー語(Fijian)"
+  },
+  {
+    "value": "fil",
+    "label": "Filipino"
+  },
+  {
+    "value": "fin",
+    "label": "フィン語(Finnish)"
+  },
+  {
+    "value": "fiu",
+    "label": "フィン・ウゴル諸語(Finno-Ugrian (Other))"
+  },
+  {
+    "value": "fon",
+    "label": "Fon"
+  },
+  {
+    "value": "frm",
+    "label": "中世フランス語(French, Middle (ca. 1300-1600))"
+  },
+  {
+    "value": "fro",
+    "label": "古フランス語(French, Old (ca. 842-1300))"
+  },
+  {
+    "value": "frr",
+    "label": "North Frisian"
+  },
+  {
+    "value": "frs",
+    "label": "Eastern Frisian"
+  },
+  {
+    "value": "fry",
+    "label": "Frisian"
+  },
+  {
+    "value": "fur",
+    "label": "Friulian"
+  },
+  {
+    "value": "ful",
+    "label": "フラ語(Fula)"
+  },
+  {
+    "value": "gez",
+    "label": "エチオピア語(Ethiopic)"
+  },
+  {
+    "value": "gaa",
+    "label": "ガ語(Ga)"
+  },
+  {
+    "value": "gla",
+    "label": "Scottish Gaelic"
+  },
+  {
+    "value": "glg",
+    "label": "Galician"
+  },
+  {
+    "value": "gay",
+    "label": "Gayo"
+  },
+  {
+    "value": "gba",
+    "label": "バヤ語(Gbaya)"
+  },
+  {
+    "value": "geo",
+    "label": "グルジア語(Georgian)"
+  },
+  {
+    "value": "gmh",
+    "label": "中高ドイツ語(German, Middle High (ca. 1050-1500))"
+  },
+  {
+    "value": "goh",
+    "label": "古高ドイツ語(German, Old High (ca. 750-1050))"
+  },
+  {
+    "value": "gem",
+    "label": "ゲルマン諸語(Germanic (Other))"
+  },
+  {
+    "value": "gil",
+    "label": "キリバス語(Gilbertese)"
+  },
+  {
+    "value": "gon",
+    "label": "ゴーンディー語(Gondi)"
+  },
+  {
+    "value": "gor",
+    "label": "ゴロンタロ語(Gorontalo)"
+  },
+  {
+    "value": "got",
+    "label": "ゴート語(Gothic)"
+  },
+  {
+    "value": "grb",
+    "label": "Grebo"
+  },
+  {
+    "value": "grc",
+    "label": "古代ギリシャ語(Greek, Ancient (to 1453))"
+  },
+  {
+    "value": "gre",
+    "label": "現代ギリシャ語(Greek, Modern (1453-))"
+  },
+  {
+    "value": "grn",
+    "label": "グアラニー語(Guarani)"
+  },
+  {
+    "value": "gsw",
+    "label": "Swiss German"
+  },
+  {
+    "value": "guj",
+    "label": "グジャラーティー語(Gujarati)"
+  },
+  {
+    "value": "gwi",
+    "label": "Gwich'in"
+  },
+  {
+    "value": "gle",
+    "label": "アイルランド語(Irish)"
+  },
+  {
+    "value": "glv",
+    "label": "マン島語(Manx)"
+  },
+  {
+    "value": "hrv",
+    "label": "クロアチア語(Croatian)"
+  },
+  {
+    "value": "hai",
+    "label": "ハイダ語(Haida)"
+  },
+  {
+    "value": "hat",
+    "label": "Haitian French Creole"
+  },
+  {
+    "value": "hau",
+    "label": "ハウサ語(Hausa)"
+  },
+  {
+    "value": "haw",
+    "label": "ハワイ語(Hawaiian)"
+  },
+  {
+    "value": "heb",
+    "label": "ヘブライ語(Hebrew)"
+  },
+  {
+    "value": "her",
+    "label": "ヘレロ語(Herero)"
+  },
+  {
+    "value": "hil",
+    "label": "Hiligaynon"
+  },
+  {
+    "value": "him",
+    "label": "Western Pahari languages"
+  },
+  {
+    "value": "hin",
+    "label": "ヒンディー語(Hindi)"
+  },
+  {
+    "value": "hmo",
+    "label": "Hiri Motu"
+  },
+  {
+    "value": "hmn",
+    "label": "Hmong"
+  },
+  {
+    "value": "hsb",
+    "label": "Upper Sorbian"
+  },
+  {
+    "value": "hit",
+    "label": "Hittite"
+  },
+  {
+    "value": "hun",
+    "label": "ハンガリー語(Hungarian)"
+  },
+  {
+    "value": "hup",
+    "label": "アタパスカ語(Hupa)"
+  },
+  {
+    "value": "hmb",
+    "label": "Kimbundu"
+  },
+  {
+    "value": "iba",
+    "label": "イバン語(Iban)"
+  },
+  {
+    "value": "ice",
+    "label": "アイスランド語(Icelandic)"
+  },
+  {
+    "value": "ido",
+    "label": "イド語(ido)"
+  },
+  {
+    "value": "ibo",
+    "label": "イボ語(Igbo)"
+  },
+  {
+    "value": "ijo",
+    "label": "Ijo"
+  },
+  {
+    "value": "ilo",
+    "label": "イロカノ語(Iloko)"
+  },
+  {
+    "value": "inc",
+    "label": "インド諸語(Indic (Other))"
+  },
+  {
+    "value": "ine",
+    "label": "印欧諸語(Indo-European (Other))"
+  },
+  {
+    "value": "ind",
+    "label": "インドネシア語(Indonesian)"
+  },
+  {
+    "value": "inh",
+    "label": "Ingush"
+  },
+  {
+    "value": "ina",
+    "label": "インターリングァ(Interlingua (International Auxiliary Language Association))"
+  },
+  {
+    "value": "ile",
+    "label": "Interlingue"
+  },
+  {
+    "value": "iku",
+    "label": "Inuktitut"
+  },
+  {
+    "value": "ipk",
+    "label": "Inupiaq"
+  },
+  {
+    "value": "ira",
+    "label": "イラン諸語(Iranian (Other))"
+  },
+  {
+    "value": "iro",
+    "label": "イロコイ諸語(Iroquoian (Other))"
+  },
+  {
+    "value": "iii",
+    "label": "Sichuan Yi"
+  },
+  {
+    "value": "jav",
+    "label": "ジャワ語(Javanese)"
+  },
+  {
+    "value": "jbo",
+    "label": "Lojban(Artificical language)"
+  },
+  {
+    "value": "jrb",
+    "label": "Judeo-Arabic"
+  },
+  {
+    "value": "jpr",
+    "label": "Judeo-Persian"
+  },
+  {
+    "value": "kbd",
+    "label": "Kabardian"
+  },
+  {
+    "value": "kab",
+    "label": "カビル語(Kabyle)"
+  },
+  {
+    "value": "kac",
+    "label": "カチン語(Kachin)"
+  },
+  {
+    "value": "kal",
+    "label": "Kalatdlisut"
+  },
+  {
+    "value": "kam",
+    "label": "カンバ語(Kamba)"
+  },
+  {
+    "value": "kan",
+    "label": "カンナダ語(Kannada)"
+  },
+  {
+    "value": "kau",
+    "label": "カヌリ語(Kanuri)"
+  },
+  {
+    "value": "kaa",
+    "label": "カラ・カルパク語(Kara-Kalpak)"
+  },
+  {
+    "value": "kar",
+    "label": "カレン語族(Karen languages)"
+  },
+  {
+    "value": "kas",
+    "label": "カシミーリー語(Kashmiri)"
+  },
+  {
+    "value": "kaw",
+    "label": "Kawi"
+  },
+  {
+    "value": "kaz",
+    "label": "カザーフ語(Kazakh)"
+  },
+  {
+    "value": "kha",
+    "label": "Khasi"
+  },
+  {
+    "value": "khm",
+    "label": "クメール語(Khmer)"
+  },
+  {
+    "value": "khi",
+    "label": "コイサン諸語(Khoisan (Other))"
+  },
+  {
+    "value": "kho",
+    "label": "Khotanese"
+  },
+  {
+    "value": "kik",
+    "label": "キクユ語(Kikuyu)"
+  },
+  {
+    "value": "kin",
+    "label": "ルワンダ語(Ruanda)"
+  },
+  {
+    "value": "kir",
+    "label": "キルギス語(Kirghiz)"
+  },
+  {
+    "value": "kom",
+    "label": "Komi"
+  },
+  {
+    "value": "kon",
+    "label": "コンゴ語(Kongo)"
+  },
+  {
+    "value": "kok",
+    "label": "コンカニー語(Konkani)"
+  },
+  {
+    "value": "kpe",
+    "label": "クペレ語(Kpelle)"
+  },
+  {
+    "value": "krc",
+    "label": "Karachay-Balkar"
+  },
+  {
+    "value": "krl",
+    "label": "Karelian"
+  },
+  {
+    "value": "kro",
+    "label": "クルー諸語(Kru (Other))"
+  },
+  {
+    "value": "kua",
+    "label": "Kuanyama"
+  },
+  {
+    "value": "kum",
+    "label": "Kumyk"
+  },
+  {
+    "value": "kur",
+    "label": "クルド語(Kurdish)"
+  },
+  {
+    "value": "kru",
+    "label": "クルク語(Kurukh)"
+  },
+  {
+    "value": "kos",
+    "label": "Kosraean"
+  },
+  {
+    "value": "kut",
+    "label": "クテナイ語(Kootenai)"
+  },
+  {
+    "value": "lug",
+    "label": "ガンダ語(Ganda)"
+  },
+  {
+    "value": "lad",
+    "label": "ラジノ語(Ladino)"
+  },
+  {
+    "value": "lah",
+    "label": "ラフンダー語(Lahnd)"
+  },
+  {
+    "value": "lam",
+    "label": "Lamba (Zambia and Congo)"
+  },
+  {
+    "value": "lao",
+    "label": "ラオ語(Lao)"
+  },
+  {
+    "value": "lat",
+    "label": "ラテン語(Latin)"
+  },
+  {
+    "value": "lav",
+    "label": "ラトヴィア語(Latvian)"
+  },
+  {
+    "value": "ltz",
+    "label": "Luxembourgish"
+  },
+  {
+    "value": "lez",
+    "label": "Lezgian"
+  },
+  {
+    "value": "lim",
+    "label": "Limburgish"
+  },
+  {
+    "value": "lin",
+    "label": "リンガラ語(Lingala)"
+  },
+  {
+    "value": "lit",
+    "label": "リトアニア語(Lithuanian)"
+  },
+  {
+    "value": "loz",
+    "label": "Lozi"
+  },
+  {
+    "value": "lub",
+    "label": "ルバ語(Luba-Katanga)"
+  },
+  {
+    "value": "lua",
+    "label": "Luba-Lulua"
+  },
+  {
+    "value": "lui",
+    "label": "ルイセニョ語(Luiseno)"
+  },
+  {
+    "value": "lun",
+    "label": "Lunda"
+  },
+  {
+    "value": "luo",
+    "label": "ルオ語(Luo (Kenya and Tanzania))"
+  },
+  {
+    "value": "lus",
+    "label": "ルシャイ語(Lushai)"
+  },
+  {
+    "value": "lol",
+    "label": "モンゴ語(Mongo)"
+  },
+  {
+    "value": "map",
+    "label": "オーストロネシア諸語(Austronesian (Other))"
+  },
+  {
+    "value": "mus",
+    "label": "クリーク語(Creek)"
+  },
+  {
+    "value": "mga",
+    "label": "Irish, Middle (ca.1100-1550)"
+  },
+  {
+    "value": "mac",
+    "label": "マケドニア語(Macedonian)"
+  },
+  {
+    "value": "mad",
+    "label": "マドゥラ語(Madurese)"
+  },
+  {
+    "value": "mag",
+    "label": "Magahi"
+  },
+  {
+    "value": "mai",
+    "label": "Maithili"
+  },
+  {
+    "value": "mak",
+    "label": "マカッサル語(Makasar)"
+  },
+  {
+    "value": "mdf",
+    "label": "Moksha"
+  },
+  {
+    "value": "mlg",
+    "label": "マラガシ語(Malagasy)"
+  },
+  {
+    "value": "may",
+    "label": "マライ語(Malay)"
+  },
+  {
+    "value": "mal",
+    "label": "マラヤーラム語(Malayalam)"
+  },
+  {
+    "value": "mlt",
+    "label": "マルタ語(Maltese)"
+  },
+  {
+    "value": "mnc",
+    "label": "Manchu"
+  },
+  {
+    "value": "mdr",
+    "label": "マンダル語(Mandar)"
+  },
+  {
+    "value": "man",
+    "label": "マンディンゴ語(Mandingo)"
+  },
+  {
+    "value": "mni",
+    "label": "Manipuri"
+  },
+  {
+    "value": "mno",
+    "label": "マノボ語(Manobo languages)"
+  },
+  {
+    "value": "mao",
+    "label": "マオリ語(Maori)"
+  },
+  {
+    "value": "mar",
+    "label": "マラーティー語(Marathi)"
+  },
+  {
+    "value": "mah",
+    "label": "マーシャル語(Marshallese)"
+  },
+  {
+    "value": "mwr",
+    "label": "Marwari"
+  },
+  {
+    "value": "mas",
+    "label": "マサイ語(Maasai)"
+  },
+  {
+    "value": "myn",
+    "label": "マヤ語族(Mayan languages)"
+  },
+  {
+    "value": "men",
+    "label": "メンデ語(Mende)"
+  },
+  {
+    "value": "mic",
+    "label": "ミクマク語(Micmac)"
+  },
+  {
+    "value": "min",
+    "label": "ミナンカバウ語(Minangkabau)"
+  },
+  {
+    "value": "moh",
+    "label": "モーホーク語(Mohawk)"
+  },
+  {
+    "value": "mkh",
+    "label": "モン・クメール諸語(Mon-Khmer (Other))"
+  },
+  {
+    "value": "mon",
+    "label": "モンゴル語(Mongolian)"
+  },
+  {
+    "value": "mos",
+    "label": "Moore"
+  },
+  {
+    "value": "mun",
+    "label": "ムンダ諸語(Munda (Other))"
+  },
+  {
+    "value": "mwl",
+    "label": "Mirandese"
+  },
+  {
+    "value": "myv",
+    "label": "Erzya"
+  },
+  {
+    "value": "mis",
+    "label": "[その他の言語](Miscellaneous languages)"
+  },
+  {
+    "value": "mul",
+    "label": "[多言語](Multiple languages)"
+  },
+  {
+    "value": "nah",
+    "label": "Nahuatl(Nahuatl←Aztec(アステカ語))"
+  },
+  {
+    "value": "nds",
+    "label": "Low German"
+  },
+  {
+    "value": "nau",
+    "label": "ナウル語(Nauru)"
+  },
+  {
+    "value": "nav",
+    "label": "ナヴァホ語(Navajo)"
+  },
+  {
+    "value": "nbl",
+    "label": "Ndebele (South Africa)"
+  },
+  {
+    "value": "nde",
+    "label": "マタベレ語(Ndebele (Zimbabwe))"
+  },
+  {
+    "value": "ndo",
+    "label": "Ndonga"
+  },
+  {
+    "value": "nap",
+    "label": "Neapolitan Italian"
+  },
+  {
+    "value": "nep",
+    "label": "ネパール語(Nepali)"
+  },
+  {
+    "value": "new",
+    "label": "ネワール語(Newari)"
+  },
+  {
+    "value": "nia",
+    "label": "Nias"
+  },
+  {
+    "value": "nic",
+    "label": "ニジェール・コルドファン諸語(Niger-Kordofanian (Other))"
+  },
+  {
+    "value": "niu",
+    "label": "ニウーエイ語(Niuean)"
+  },
+  {
+    "value": "nog",
+    "label": "Nogai"
+  },
+  {
+    "value": "nqo",
+    "label": "N'Ko"
+  },
+  {
+    "value": "nai",
+    "label": "北米インディアン諸語(North American Indian (Other))"
+  },
+  {
+    "value": "nso",
+    "label": "Northern Sotho"
+  },
+  {
+    "value": "nor",
+    "label": "ノルウェー語(Norwegian)"
+  },
+  {
+    "value": "nob",
+    "label": "Norwegian (Bokmål)"
+  },
+  {
+    "value": "nno",
+    "label": "Norwegian (Nynorsk)"
+  },
+  {
+    "value": "nub",
+    "label": "ヌバ語(Nubian languages)"
+  },
+  {
+    "value": "nwc",
+    "label": "Newari, Old"
+  },
+  {
+    "value": "nym",
+    "label": "ムエジ語(Nyamwezi)"
+  },
+  {
+    "value": "nya",
+    "label": "ニャンジャ語(Nyanja)"
+  },
+  {
+    "value": "nyn",
+    "label": "Nyankole"
+  },
+  {
+    "value": "nyo",
+    "label": "Nyoro"
+  },
+  {
+    "value": "nzi",
+    "label": "Nzima"
+  },
+  {
+    "value": "non",
+    "label": "古期スカンジナビア語(Old Norse)"
+  },
+  {
+    "value": "oji",
+    "label": "オジブワ語(Ojibwa ← Chippewa(チペア語))"
+  },
+  {
+    "value": "oci",
+    "label": "Occitan (post-1500)"
+  },
+  {
+    "value": "ori",
+    "label": "オリヤー語(Oriya)"
+  },
+  {
+    "value": "orm",
+    "label": "Oromo"
+  },
+  {
+    "value": "osa",
+    "label": "オーセージ語(Osage)"
+  },
+  {
+    "value": "oss",
+    "label": "オセト語(Ossetic)"
+  },
+  {
+    "value": "oto",
+    "label": "オトミ語族(Otomian languages)"
+  },
+  {
+    "value": "ota",
+    "label": "オスマントルコ語(Turkish, Ottoman ← Ottoman Turkish)"
+  },
+  {
+    "value": "peo",
+    "label": "古代ペルシャ語(Old Persian (ca. 600-400 B.C.))"
+  },
+  {
+    "value": "pal",
+    "label": "パーラヴィー語(Pahlavi)"
+  },
+  {
+    "value": "pau",
+    "label": "パラオ語(Palauan)"
+  },
+  {
+    "value": "pli",
+    "label": "パーリ語(Pali)"
+  },
+  {
+    "value": "pam",
+    "label": "パンパンガ語(Pampanga)"
+  },
+  {
+    "value": "pag",
+    "label": "パンガシナーン語(Pangasinan)"
+  },
+  {
+    "value": "pan",
+    "label": "パンジャブ語(Panjabi)"
+  },
+  {
+    "value": "pap",
+    "label": "パピアメント(Papiamento)"
+  },
+  {
+    "value": "paa",
+    "label": "パプア諸語(Papuan-Australian (Other))"
+  },
+  {
+    "value": "per",
+    "label": "ペルシャ語(Persian)"
+  },
+  {
+    "value": "phi",
+    "label": "Philippine (Other)"
+  },
+  {
+    "value": "phn",
+    "label": "Phoenician"
+  },
+  {
+    "value": "pol",
+    "label": "ポーランド語(Polish)"
+  },
+  {
+    "value": "pon",
+    "label": "Pohnpeian"
+  },
+  {
+    "value": "pra",
+    "label": "プラークリット諸語(Prakrit languages)"
+  },
+  {
+    "value": "pro",
+    "label": "古期プロヴァンス語(Provencal, Old (to 1500))"
+  },
+  {
+    "value": "pus",
+    "label": "プシュトゥー語(Pushto)"
+  },
+  {
+    "value": "que",
+    "label": "キチュワ語(Quechua)"
+  },
+  {
+    "value": "rup",
+    "label": "Aromanian"
+  },
+  {
+    "value": "rum",
+    "label": "ルーマニア語(Romanian)"
+  },
+  {
+    "value": "roh",
+    "label": "レトロマン語(Rhaeto-Romance)"
+  },
+  {
+    "value": "raj",
+    "label": "ラージャスターニー語(Rajasthani)"
+  },
+  {
+    "value": "rap",
+    "label": "ラパヌーイ語(Rapanui)"
+  },
+  {
+    "value": "rar",
+    "label": "Rarotongan"
+  },
+  {
+    "value": "roa",
+    "label": "ロマンス諸語(Romance (Other))"
+  },
+  {
+    "value": "rom",
+    "label": "ロマニ語(Romani)"
+  },
+  {
+    "value": "run",
+    "label": "ルンディ語(Rundi)"
+  },
+  {
+    "value": "smn",
+    "label": "Inari Sami"
+  },
+  {
+    "value": "sga",
+    "label": "Irish, Old (to 1100)"
+  },
+  {
+    "value": "smi",
+    "label": "Sami"
+  },
+  {
+    "value": "smj",
+    "label": "Lule Sami"
+  },
+  {
+    "value": "ssa",
+    "label": "ナイロ・サハラ諸語(Nilo-Saharan (Other))"
+  },
+  {
+    "value": "sme",
+    "label": "Northern Sami"
+  },
+  {
+    "value": "sal",
+    "label": "サリシュ語族(Salishan languages)"
+  },
+  {
+    "value": "sam",
+    "label": "サマリア語(Samaritan Aramic)"
+  },
+  {
+    "value": "smo",
+    "label": "サモア語(Samoan)"
+  },
+  {
+    "value": "sad",
+    "label": "サンダウェ語(Sandawe)"
+  },
+  {
+    "value": "sag",
+    "label": "サンゴ語(Sango (Ubangi Creole))"
+  },
+  {
+    "value": "san",
+    "label": "梵語(Sanskrit)"
+  },
+  {
+    "value": "sat",
+    "label": "サンターリー語(Santali)"
+  },
+  {
+    "value": "srd",
+    "label": "Sardinian"
+  },
+  {
+    "value": "sas",
+    "label": "ササク語(Sasak)"
+  },
+  {
+    "value": "sco",
+    "label": "スコットランド語(Scots)"
+  },
+  {
+    "value": "sel",
+    "label": "セリクプ語(Selkup)"
+  },
+  {
+    "value": "sem",
+    "label": "セム諸語(Semitic (Other))"
+  },
+  {
+    "value": "srp",
+    "label": "セルビア語(Serbian)"
+  },
+  {
+    "value": "scn",
+    "label": "Sicilian Italian"
+  },
+  {
+    "value": "srn",
+    "label": "Sranan"
+  },
+  {
+    "value": "srr",
+    "label": "Serer"
+  },
+  {
+    "value": "shn",
+    "label": "シャン語(Shan)"
+  },
+  {
+    "value": "sna",
+    "label": "ショナ語(Shona)"
+  },
+  {
+    "value": "sid",
+    "label": "Sidamo"
+  },
+  {
+    "value": "sgn",
+    "label": "手まね言語(Sign languages)"
+  },
+  {
+    "value": "snd",
+    "label": "シンディー語(Sindhi)"
+  },
+  {
+    "value": "sin",
+    "label": "シンハリーズ語(Sinhalese)"
+  },
+  {
+    "value": "sit",
+    "label": "シナ・チベット諸語(Sino-Tibetan (Other))"
+  },
+  {
+    "value": "sio",
+    "label": "スー語族(Siouan languages)"
+  },
+  {
+    "value": "sms",
+    "label": "Skolt Sami"
+  },
+  {
+    "value": "sla",
+    "label": "スラブ諸語(Slavic (Other))"
+  },
+  {
+    "value": "slo",
+    "label": "スロヴァキア語(Slovak)"
+  },
+  {
+    "value": "slv",
+    "label": "スロヴェニア語(Slovenian)"
+  },
+  {
+    "value": "sog",
+    "label": "ソグド語(Sogdian)"
+  },
+  {
+    "value": "som",
+    "label": "ソマリ語(Somali)"
+  },
+  {
+    "value": "son",
+    "label": "Songhai"
+  },
+  {
+    "value": "snk",
+    "label": "ソニンケ語(Soninke)"
+  },
+  {
+    "value": "sot",
+    "label": "ソト語(Sotho)"
+  },
+  {
+    "value": "sai",
+    "label": "南米インディアン諸語(South American Indian (Other))"
+  },
+  {
+    "value": "sma",
+    "label": "Southern Sami"
+  },
+  {
+    "value": "suk",
+    "label": "Sukuma"
+  },
+  {
+    "value": "sux",
+    "label": "シュメール語(Sumerian)"
+  },
+  {
+    "value": "sun",
+    "label": "スンダ語(Sundanese)"
+  },
+  {
+    "value": "sus",
+    "label": "スス語(Susu)"
+  },
+  {
+    "value": "swa",
+    "label": "スワヒリ語(Swahili)"
+  },
+  {
+    "value": "ssw",
+    "label": "スワージ語(Swazi)"
+  },
+  {
+    "value": "swe",
+    "label": "スウェーデン語(Swedish)"
+  },
+  {
+    "value": "syc",
+    "label": "シリア語(Syriac)"
+  },
+  {
+    "value": "syr",
+    "label": "現代シリア語(Syriac,Modern)"
+  },
+  {
+    "value": "sah",
+    "label": "Yakut"
+  },
+  {
+    "value": "tut",
+    "label": "アルタイ諸語(Altaic (Other))"
+  },
+  {
+    "value": "tgl",
+    "label": "タガログ語(Tagalog)"
+  },
+  {
+    "value": "tah",
+    "label": "タヒチ語(Tahitian)"
+  },
+  {
+    "value": "tai",
+    "label": "タイ諸語(Tai (Other))"
+  },
+  {
+    "value": "tgk",
+    "label": "タジク語(Tajik)"
+  },
+  {
+    "value": "tmh",
+    "label": "タマシェク語(Tamashek)"
+  },
+  {
+    "value": "tam",
+    "label": "タミル語(Tamil)"
+  },
+  {
+    "value": "tat",
+    "label": "タタール語(Tatar)"
+  },
+  {
+    "value": "tel",
+    "label": "テルグ語(Telugu)"
+  },
+  {
+    "value": "tem",
+    "label": "Timne"
+  },
+  {
+    "value": "ter",
+    "label": "Terena"
+  },
+  {
+    "value": "tet",
+    "label": "Tetum"
+  },
+  {
+    "value": "tib",
+    "label": "チベット語(Tibetan)"
+  },
+  {
+    "value": "tig",
+    "label": "ティグレ語(Tigre)"
+  },
+  {
+    "value": "tir",
+    "label": "ティグリニア語(Tigrinya)"
+  },
+  {
+    "value": "tiv",
+    "label": "ティブ語(Tivi)"
+  },
+  {
+    "value": "tli",
+    "label": "トリンギット語(Tlingit)"
+  },
+  {
+    "value": "tlh",
+    "label": "Klingon(Artificical language)"
+  },
+  {
+    "value": "tpi",
+    "label": "Tok Pisin"
+  },
+  {
+    "value": "tkl",
+    "label": "トケラウ語(Tokelauan)"
+  },
+  {
+    "value": "tog",
+    "label": "トンガ語(ニアサ)(Tonga (Nyasa))"
+  },
+  {
+    "value": "ton",
+    "label": "Tongan"
+  },
+  {
+    "value": "tsi",
+    "label": "チムシュ語(Tsimshian)"
+  },
+  {
+    "value": "tso",
+    "label": "Tsonga"
+  },
+  {
+    "value": "tsn",
+    "label": "ツワナ語(Tswana)"
+  },
+  {
+    "value": "tum",
+    "label": "Tumbuka"
+  },
+  {
+    "value": "tup",
+    "label": "Tupi Languages"
+  },
+  {
+    "value": "tur",
+    "label": "トルコ語(Turkish)"
+  },
+  {
+    "value": "tuk",
+    "label": "トゥルクメン語(Turkmen)"
+  },
+  {
+    "value": "tvl",
+    "label": "ツバル語(Tuvaluan)"
+  },
+  {
+    "value": "tyv",
+    "label": "Tuvinian"
+  },
+  {
+    "value": "twi",
+    "label": "トウィ語(Twi)"
+  },
+  {
+    "value": "udm",
+    "label": "Udmurt"
+  },
+  {
+    "value": "uga",
+    "label": "ウガリット語(Ugaritic)"
+  },
+  {
+    "value": "uig",
+    "label": "ウイグル語(Uighur)"
+  },
+  {
+    "value": "ukr",
+    "label": "ウクライナ語(Ukrainian)"
+  },
+  {
+    "value": "umb",
+    "label": "アンブンドゥ語(Umbundu)"
+  },
+  {
+    "value": "urd",
+    "label": "ウルドゥー語(Urdu)"
+  },
+  {
+    "value": "uzb",
+    "label": "ウズベク語(Uzbek)"
+  },
+  {
+    "value": "und",
+    "label": "[言語名不明](Undetermined)"
+  },
+  {
+    "value": "vai",
+    "label": "ヴァイ語(Vai)"
+  },
+  {
+    "value": "ven",
+    "label": "ベンダ語(Venda)"
+  },
+  {
+    "value": "vie",
+    "label": "ベトナム語(Vietnamese)"
+  },
+  {
+    "value": "vol",
+    "label": "Volapuk"
+  },
+  {
+    "value": "vot",
+    "label": "ヴォート語(Votic)"
+  },
+  {
+    "value": "wen",
+    "label": "ソルビア諸語(Sorbian (Other))"
+  },
+  {
+    "value": "wak",
+    "label": "ワカシ語族(Wakashan languages)"
+  },
+  {
+    "value": "wal",
+    "label": "Wolayta"
+  },
+  {
+    "value": "wln",
+    "label": "ワロン語(walloon)"
+  },
+  {
+    "value": "war",
+    "label": "Waray"
+  },
+  {
+    "value": "was",
+    "label": "Washo"
+  },
+  {
+    "value": "wel",
+    "label": "ウェールズ語(Welsh)"
+  },
+  {
+    "value": "wol",
+    "label": "ウォロフ語(Wolof)"
+  },
+  {
+    "value": "xal",
+    "label": "Oirat (Kalmyk)"
+  },
+  {
+    "value": "xho",
+    "label": "ホサ語(Xhosa)"
+  },
+  {
+    "value": "yao",
+    "label": "ヤオ語(Yao (Africa))"
+  },
+  {
+    "value": "yap",
+    "label": "ヤップ語(Yap)"
+  },
+  {
+    "value": "yid",
+    "label": "イディッシュ語(Yiddish)"
+  },
+  {
+    "value": "yor",
+    "label": "ヨルバ語(Yoruba)"
+  },
+  {
+    "value": "ypk",
+    "label": "Yupik languages"
+  },
+  {
+    "value": "zbl",
+    "label": "Blissymbolics"
+  },
+  {
+    "value": "znd",
+    "label": "Zande languages"
+  },
+  {
+    "value": "zap",
+    "label": "ザポテック語(Zapotec)"
+  },
+  {
+    "value": "zen",
+    "label": "Zenaga"
+  },
+  {
+    "value": "zul",
+    "label": "ズールー語(Zulu)"
+  },
+  {
+    "value": "zha",
+    "label": "Zhuang"
+  },
+  {
+    "value": "zun",
+    "label": "ズニ語(Zuni)"
+  },
+  {
+    "value": "zxx",
+    "label": "No linguistic content"
+  },
+  {
+    "value": "zza",
+    "label": "Zaza"
+  }
+]

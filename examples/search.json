@@ -1,0 +1,13 @@
+{
+  "words": "",
+  "mode": "detail",
+  "campus": "both",
+  "limit": 10,
+  "conditions": [
+    { "field": "title", "value": "Rust" },
+    { "field": "title", "value": "Effective", "operator": "NOT" }
+  ],
+  "materialTypes": ["bk"],
+  "languages": ["jpn"],
+  "sort": "syear,sauth/DESC,DESC"
+}
