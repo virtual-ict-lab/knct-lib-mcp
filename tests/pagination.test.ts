@@ -56,17 +56,17 @@ test("bootstraps a standalone second page, keeps search session and conditions, 
   expect(resultLines(page2, 80)[0]).toStartWith("11.");
   const first = await client.search({ ...options, page: 1, holdings: false });
   expect(first.books[0]?.id).toBe("BB1");
-  await expect(client.search({ ...options, page: 3 })).rejects.toThrow("1〜2");
+  await expect(client.search({ ...options, page: 3 })).rejects.toThrow("1-2");
 });
 test("rejects a stale session returning page one for a page two request", async () => {
   const client = new OpacClient(async () => new Response(list(1, 10)));
   await expect(
     client.search({ words: "Rust", page: 2, holdings: false }),
-  ).rejects.toThrow("指定ページを取得できません");
+  ).rejects.toThrow("Could not retrieve the requested page");
 });
 test("validates page numbers", () => {
   for (const page of [0, -1, 1.5, NaN])
     expect(() => buildSearchForm({ words: "Rust", page })).toThrow(
-      "ページ番号",
+      "Page must be a positive safe integer",
     );
 });

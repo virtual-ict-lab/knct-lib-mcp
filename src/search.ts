@@ -12,26 +12,26 @@ export interface Condition {
   operator?: Operator;
 }
 export const fieldChoices = [
-  { value: "words", label: "キーワード" },
-  { value: "title", label: "タイトル" },
-  { value: "auth", label: "著者名" },
-  { value: "pub", label: "出版者" },
-  { value: "sh", label: "件名" },
-  { value: "tag", label: "タグ" },
+  { value: "words", label: "Keywords" },
+  { value: "title", label: "Title" },
+  { value: "auth", label: "Author" },
+  { value: "pub", label: "Publisher" },
+  { value: "sh", label: "Subject" },
+  { value: "tag", label: "Tag" },
 ];
 export const sortChoices = [
-  { value: "", label: "OPAC既定" },
+  { value: "", label: "OPAC default" },
   ...[
-    ["stitle,sauth/ASC,ASC", "タイトル昇順"],
-    ["stitle,sauth/DESC,DESC", "タイトル降順"],
-    ["sauth,stitle/ASC,ASC", "著者名昇順"],
-    ["sauth,stitle/DESC,DESC", "著者名降順"],
-    ["syear,sauth/ASC,ASC", "出版年昇順"],
-    ["syear,sauth/DESC,DESC", "出版年降順"],
-    ["id/ASC", "登録昇順"],
-    ["id/DESC", "登録降順"],
-    ["relevance/DESC", "関連度順"],
-    ["scircle,sauth/DESC,DESC", "利用度順"],
+    ["stitle,sauth/ASC,ASC", "Title ascending"],
+    ["stitle,sauth/DESC,DESC", "Title descending"],
+    ["sauth,stitle/ASC,ASC", "Author ascending"],
+    ["sauth,stitle/DESC,DESC", "Author descending"],
+    ["syear,sauth/ASC,ASC", "Year ascending"],
+    ["syear,sauth/DESC,DESC", "Year descending"],
+    ["id/ASC", "Registration ascending"],
+    ["id/DESC", "Registration descending"],
+    ["relevance/DESC", "Relevance"],
+    ["scircle,sauth/DESC,DESC", "Usage"],
   ].map(([value, label]) => ({ value: value!, label: label! })),
 ];
 export const codeChoices = [
@@ -42,7 +42,7 @@ export const codeChoices = [
   "NDLPN",
   "FID",
   "OTHN",
-].map((value) => ({ value, label: value || "指定なし" }));
+].map((value) => ({ value, label: value || "Unspecified" }));
 export interface SearchOptions {
   words: string;
   mode?: SearchMode;
@@ -132,9 +132,9 @@ export function buildSearchForm(o: SearchOptions): URLSearchParams {
   ] as const;
   for (const key of strings)
     if (o[key] !== undefined && typeof o[key] !== "string")
-      throw new Error(`${key}は文字列にしてください`);
+      throw new Error(`${key} must be a string`);
   if (typeof o.words !== "string")
-    throw new Error("wordsは文字列にしてください");
+    throw new Error("words must be a string");
   for (const key of [
     "conditions",
     "materialTypes",
@@ -142,60 +142,60 @@ export function buildSearchForm(o: SearchOptions): URLSearchParams {
     "languages",
   ] as const)
     if (o[key] !== undefined && !Array.isArray(o[key]))
-      throw new Error(`${key}は配列にしてください`);
+      throw new Error(`${key} must be an array`);
   for (const key of ["availableOnly", "holdings"] as const)
     if (o[key] !== undefined && typeof o[key] !== "boolean")
-      throw new Error(`${key}は真偽値にしてください`);
+      throw new Error(`${key} must be a boolean`);
   if (!["both", "takamatsu", "takuma"].includes(o.campus ?? "both"))
-    throw new Error("不正な所蔵館です");
+    throw new Error("Invalid campus");
   if (o.page !== undefined && (!Number.isSafeInteger(o.page) || o.page < 1))
-    throw new Error("ページ番号は1以上の整数です");
+    throw new Error("Page must be a positive safe integer");
   if (![10, 20, 50, 100].includes(o.limit ?? 10))
-    throw new Error("表示件数は10/20/50/100です");
+    throw new Error("Page size must be 10, 20, 50, or 100");
   if (o.mode && !["simple", "detail"].includes(o.mode))
-    throw new Error("検索モードはsimple/detailです");
+    throw new Error("Search mode must be simple or detail");
   const detail = o.mode ? o.mode === "detail" : isDetailed(o);
   if (!detail && isDetailed(o))
     throw new Error(
-      "通常検索では詳細条件を使えません。--mode detailを指定してください",
+      "Simple search does not support detailed conditions. Use --mode detail",
     );
   const conditions = o.conditions ?? legacyConditions(o);
-  if (conditions.length > 4) throw new Error("検索条件は最大4行です");
+  if (conditions.length > 4) throw new Error("At most four search conditions are allowed");
   for (const c of conditions) {
     if (!c || typeof c !== "object" || typeof c.value !== "string")
-      throw new Error("条件はfield/value/operatorのオブジェクトにしてください");
+      throw new Error("Each condition must be an object with field/value/operator");
     if (!fieldChoices.some((f) => f.value === c.field))
-      throw new Error("不正な検索項目です");
+      throw new Error("Invalid search field");
     if (c.operator && !["AND", "OR", "NOT"].includes(c.operator))
-      throw new Error("結合はAND/OR/NOTです");
+      throw new Error("Operator must be AND, OR, or NOT");
   }
   for (const y of [o.year, o.yearTo])
     if (y && !/^\d{4}$/.test(y))
-      throw new Error("出版年は4桁で指定してください");
+      throw new Error("Publication years must have four digits");
   if (o.year && o.yearTo && o.year > o.yearTo)
-    throw new Error("出版年の開始は終了以前にしてください");
+    throw new Error("Start year must not be later than end year");
   if (o.sort && !sortChoices.some((s) => s.value === o.sort))
-    throw new Error("不正な表示順です");
+    throw new Error("Invalid sort order");
   if (o.codeType && !codeChoices.some((c) => c.value === o.codeType))
-    throw new Error("不正なコード種別です");
-  if (o.code && !o.codeType) throw new Error("コード種別を選択してください");
+    throw new Error("Invalid code type");
+  if (o.code && !o.codeType) throw new Error("Select a code type");
   for (const t of o.materialTypes ?? [])
     if (!["bk", "sr", "av"].includes(t))
-      throw new Error("資料種別はbk/sr/avです");
+      throw new Error("Material types must be bk, sr, or av");
   for (const [values, catalog, label] of [
-    [o.countries, countries, "出版国"],
-    [o.languages, languages, "言語"],
+    [o.countries, countries, "Country"],
+    [o.languages, languages, "Language"],
   ] as const)
     for (const value of values ?? [])
       if (!catalog.some((c) => c.value === value))
-        throw new Error(`不正な${label}コード: ${value}`);
+        throw new Error(`Invalid ${label.toLowerCase()} code: ${value}`);
   if (
     o.location &&
     (!locations.some((l) => l.value === o.location) ||
       (o.campus === "takamatsu" && !o.location.startsWith("75/")) ||
       (o.campus === "takuma" && !o.location.startsWith("76/")))
   )
-    throw new Error("配置場所と所蔵館を確認してください");
+    throw new Error("Location must match the selected campus");
   if (
     !(detail
       ? conditions.some((c) => c.value.trim()) ||
@@ -218,7 +218,7 @@ export function buildSearchForm(o: SearchOptions): URLSearchParams {
         o.languages?.length
       : o.words.trim())
   )
-    throw new Error("検索条件を入力してください");
+    throw new Error("Enter search criteria");
   const p = new URLSearchParams();
   for (const name of "formkeyno sortkey sorttype startpos hitcnt searchsql combsearch searchhis akey fct_gcattp fct_auth fct_pub fct_year fct_cls fct_sh fct_lang fct_holar fct_campus fct_tag fct_range_year fct_stamp fct_user1 fct_user2 fct_user3 fct_user4 fct_user5 fct_holstat fct_target_name".split(
     " ",

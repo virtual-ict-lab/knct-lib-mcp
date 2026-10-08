@@ -102,3 +102,14 @@ test("rejects inconsistent campuses, invalid codes, too many rows and incompatib
   expect(languages.some((c) => c.value === "jpn")).toBe(true);
   expect(locations.every((l) => /^(75|76)\//.test(l.value))).toBe(true);
 });
+test("catalog labels are English while OPAC codes remain unchanged", () => {
+  for (const catalog of [countries, languages, locations]) {
+    for (const choice of catalog) {
+      expect(choice.label).not.toMatch(/[\u3040-\u30ff\u3400-\u9fff]/);
+      expect(choice.label.trim().length).toBeGreaterThan(0);
+    }
+  }
+  expect(countries.find((c) => c.value === "ja")?.label).toBe("Japan");
+  expect(languages.find((c) => c.value === "jpn")?.label).toBe("Japanese");
+  expect(locations.find((c) => c.value === "75/10001")?.label).toContain("Reading room");
+});

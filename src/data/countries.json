@@ -1,719 +1,719 @@
 [
   {
     "value": "ag",
-    "label": "アルゼンチン(Argentina)"
+    "label": "Argentina"
   },
   {
     "value": "at",
-    "label": "オーストラリア(Australia)"
+    "label": "Australia"
   },
   {
     "value": "au",
-    "label": "オーストリア(Austria)"
+    "label": "Austria"
   },
   {
     "value": "bg",
-    "label": "バングラデシュ(Bangladesh)"
+    "label": "Bangladesh"
   },
   {
     "value": "be",
-    "label": "ベルギー(Belgium)"
+    "label": "Belgium"
   },
   {
     "value": "bl",
-    "label": "ブラジル(Brazil)"
+    "label": "Brazil"
   },
   {
     "value": "cn",
-    "label": "カナダ(Canada)"
+    "label": "Canada"
   },
   {
     "value": "cc",
-    "label": "中華人民共和国(China)"
+    "label": "China"
   },
   {
     "value": "dk",
-    "label": "デンマーク(Denmark)"
+    "label": "Denmark"
   },
   {
     "value": "ua",
-    "label": "エジプト(Egypt)"
+    "label": "Egypt"
   },
   {
     "value": "fr",
-    "label": "フランス(France)"
+    "label": "France"
   },
   {
     "value": "gw",
-    "label": "ドイツ(Germany (ドイツ連邦共和国))"
+    "label": "Germany (Federal Republic)"
   },
   {
     "value": "gr",
-    "label": "ギリシャ(Greece)"
+    "label": "Greece"
   },
   {
     "value": "ii",
-    "label": "インド(India)"
+    "label": "India"
   },
   {
     "value": "io",
-    "label": "インドネシア(Indonesia)"
+    "label": "Indonesia"
   },
   {
     "value": "it",
-    "label": "イタリア(Italy)"
+    "label": "Italy"
   },
   {
     "value": "ja",
-    "label": "日本(Japan)"
+    "label": "Japan"
   },
   {
     "value": "kn",
-    "label": "北朝鮮(Korea North (朝鮮民主主義人民共和国))"
+    "label": "North Korea"
   },
   {
     "value": "ko",
-    "label": "大韓民国(Korea South)"
+    "label": "Korea South"
   },
   {
     "value": "my",
-    "label": "マレーシア(Malaysia)"
+    "label": "Malaysia"
   },
   {
     "value": "ne",
-    "label": "オランダ(Netherlands)"
+    "label": "Netherlands"
   },
   {
     "value": "nz",
-    "label": "ニュージーランド(New Zealand)"
+    "label": "New Zealand"
   },
   {
     "value": "ph",
-    "label": "フィリピン(Philippines)"
+    "label": "Philippines"
   },
   {
     "value": "pl",
-    "label": "ポーランド(Poland)"
+    "label": "Poland"
   },
   {
     "value": "po",
-    "label": "ポルトガル(Portugal)"
+    "label": "Portugal"
   },
   {
     "value": "ru",
-    "label": "ロシア連邦(Russia (Federation))"
+    "label": "Russia (Federation)"
   },
   {
     "value": "si",
-    "label": "シンガポール(Singapore)"
+    "label": "Singapore"
   },
   {
     "value": "sp",
-    "label": "スペイン(Spain)"
+    "label": "Spain"
   },
   {
     "value": "sw",
-    "label": "スウェーデン(Sweden)"
+    "label": "Sweden"
   },
   {
     "value": "sz",
-    "label": "スイス(Switzerland)"
+    "label": "Switzerland"
   },
   {
     "value": "ch",
-    "label": "台湾(Taiwan)"
+    "label": "Taiwan"
   },
   {
     "value": "th",
-    "label": "タイ(Thailand)"
+    "label": "Thailand"
   },
   {
     "value": "uk",
-    "label": "イギリス(United Kingdom)"
+    "label": "United Kingdom"
   },
   {
     "value": "us",
-    "label": "アメリカ合衆国(United States)"
+    "label": "United States"
   },
   {
     "value": "vc",
-    "label": "バチカン市国(Vatican City)"
+    "label": "Vatican City"
   },
   {
     "value": "af",
-    "label": "アフガニスタン(Afghanistan)"
+    "label": "Afghanistan"
   },
   {
     "value": "aa",
-    "label": "アルバニア(Albania)"
+    "label": "Albania"
   },
   {
     "value": "ae",
-    "label": "アルジェリア(Algeria)"
+    "label": "Algeria"
   },
   {
     "value": "as",
-    "label": "米領サモア(American Samoa)"
+    "label": "American Samoa"
   },
   {
     "value": "an",
-    "label": "アンドラ(Andorra)"
+    "label": "Andorra"
   },
   {
     "value": "ao",
-    "label": "アンゴラ(Angola)"
+    "label": "Angola"
   },
   {
     "value": "am",
-    "label": "アンギラ(Anguilla)"
+    "label": "Anguilla"
   },
   {
     "value": "ay",
-    "label": "南極地域(Antarctica)"
+    "label": "Antarctica"
   },
   {
     "value": "aq",
-    "label": "アンチグア・バーブーダ(Antigua and Barbuda)"
+    "label": "Antigua and Barbuda"
   },
   {
     "value": "ai",
-    "label": "アルメニア共和国(Armenia (Republic))"
+    "label": "Armenia (Republic)"
   },
   {
     "value": "aw",
-    "label": "アルバ(Aruba)"
+    "label": "Aruba"
   },
   {
     "value": "aj",
-    "label": "アゼルバイジャン共和国(Azerbaijan)"
+    "label": "Azerbaijan"
   },
   {
     "value": "bf",
-    "label": "バハマ(Bahamas)"
+    "label": "Bahamas"
   },
   {
     "value": "ba",
-    "label": "バーレーン(Bahrain)"
+    "label": "Bahrain"
   },
   {
     "value": "bb",
-    "label": "バルバドス(Barbados)"
+    "label": "Barbados"
   },
   {
     "value": "bw",
-    "label": "ベラルーシ共和国(Belarus)"
+    "label": "Belarus"
   },
   {
     "value": "bh",
-    "label": "ベリーズ(Belize)"
+    "label": "Belize"
   },
   {
     "value": "bm",
-    "label": "バーミューダ諸島(Bermuda)"
+    "label": "Bermuda"
   },
   {
     "value": "bt",
-    "label": "ブータン(Bhutan)"
+    "label": "Bhutan"
   },
   {
     "value": "bo",
-    "label": "ボリビア(Bolivia)"
+    "label": "Bolivia"
   },
   {
     "value": "bn",
-    "label": "ボスニア・ヘルツェゴビナ(Bosnia and Herzegovina)"
+    "label": "Bosnia and Herzegovina"
   },
   {
     "value": "bs",
-    "label": "ボツワナ(Botswana)"
+    "label": "Botswana"
   },
   {
     "value": "bv",
-    "label": "ブーベ島(Bouvet Island)"
+    "label": "Bouvet Island"
   },
   {
     "value": "bi",
-    "label": "英領インド洋地域(British Indian Ocean Territory)"
+    "label": "British Indian Ocean Territory"
   },
   {
     "value": "bx",
-    "label": "ブルネイ(Brunei)"
+    "label": "Brunei"
   },
   {
     "value": "bu",
-    "label": "ブルガリア(Bulgaria)"
+    "label": "Bulgaria"
   },
   {
     "value": "br",
-    "label": "ビルマ(Burma)"
+    "label": "Burma"
   },
   {
     "value": "bd",
-    "label": "ブルンジ(Burundi)"
+    "label": "Burundi"
   },
   {
     "value": "bp",
-    "label": "ソロモン諸島(Solomon Islands)"
+    "label": "Solomon Islands"
   },
   {
     "value": "cb",
-    "label": "カンボジア(Cambodia)"
+    "label": "Cambodia"
   },
   {
     "value": "cm",
-    "label": "カメルーン(Cameroon)"
+    "label": "Cameroon"
   },
   {
     "value": "cv",
-    "label": "カーボベルデ(Cabo Verde)"
+    "label": "Cabo Verde"
   },
   {
     "value": "ca",
-    "label": "オランダカリブ領域(Caribbean Netherlands)"
+    "label": "Caribbean Netherlands"
   },
   {
     "value": "cj",
-    "label": "ケイマン諸島(Cayman Islands)"
+    "label": "Cayman Islands"
   },
   {
     "value": "cx",
-    "label": "中央アフリカ(Central African Republic)"
+    "label": "Central African Republic"
   },
   {
     "value": "cd",
-    "label": "チャド(Chad)"
+    "label": "Chad"
   },
   {
     "value": "cl",
-    "label": "チリ(Chile)"
+    "label": "Chile"
   },
   {
     "value": "ck",
-    "label": "コロンビア(Colombia)"
+    "label": "Colombia"
   },
   {
     "value": "cq",
-    "label": "コモロ(Comoros)"
+    "label": "Comoros"
   },
   {
     "value": "cf",
-    "label": "コンゴー共和国(Congo (Brazzaville))"
+    "label": "Congo (Brazzaville)"
   },
   {
     "value": "cg",
-    "label": "コンゴー民主共和国(Congo (Democratic Republic))"
+    "label": "Congo (Democratic Republic)"
   },
   {
     "value": "cw",
-    "label": "クック諸島(Cook Islands)"
+    "label": "Cook Islands"
   },
   {
     "value": "cr",
-    "label": "コスタリカ(Costa Rica)"
+    "label": "Costa Rica"
   },
   {
     "value": "ci",
-    "label": "クロアチア(Croatia)"
+    "label": "Croatia"
   },
   {
     "value": "cu",
-    "label": "キューバ(Cuba)"
+    "label": "Cuba"
   },
   {
     "value": "co",
-    "label": "キュラソー(Curacao)"
+    "label": "Curacao"
   },
   {
     "value": "cy",
-    "label": "キプロス(Cyprus)"
+    "label": "Cyprus"
   },
   {
     "value": "ce",
-    "label": "スリランカ(Sri Lanka)"
+    "label": "Sri Lanka"
   },
   {
     "value": "dm",
-    "label": "ベナン(Benin)"
+    "label": "Benin"
   },
   {
     "value": "dq",
-    "label": "ドミニカ国(Dominica)"
+    "label": "Dominica"
   },
   {
     "value": "dr",
-    "label": "ドミニカ共和国(Dominican Republic)"
+    "label": "Dominican Republic"
   },
   {
     "value": "em",
-    "label": "東チモール(Timor-Leste)"
+    "label": "Timor-Leste"
   },
   {
     "value": "ec",
-    "label": "エクアドル(Ecuador)"
+    "label": "Ecuador"
   },
   {
     "value": "es",
-    "label": "エルサルバドル(El Salvador)"
+    "label": "El Salvador"
   },
   {
     "value": "eg",
-    "label": "赤道ギニア(Equatorial Guinea)"
+    "label": "Equatorial Guinea"
   },
   {
     "value": "ea",
-    "label": "エリトリア(Eritrea)"
+    "label": "Eritrea"
   },
   {
     "value": "er",
-    "label": "エストニア共和国(Estonia)"
+    "label": "Estonia"
   },
   {
     "value": "et",
-    "label": "エチオピア(Ethiopia)"
+    "label": "Ethiopia"
   },
   {
     "value": "ft",
-    "label": "ジブチ(Djibouti)"
+    "label": "Djibouti"
   },
   {
     "value": "fk",
-    "label": "フォークランド諸島(Falkland Islands)"
+    "label": "Falkland Islands"
   },
   {
     "value": "fa",
-    "label": "フェロー諸島(Faeroe Islands)"
+    "label": "Faeroe Islands"
   },
   {
     "value": "fj",
-    "label": "フィジー(Fiji)"
+    "label": "Fiji"
   },
   {
     "value": "fi",
-    "label": "フィンランド(Finland)"
+    "label": "Finland"
   },
   {
     "value": "fg",
-    "label": "仏領ギアナ(French Guiana)"
+    "label": "French Guiana"
   },
   {
     "value": "fp",
-    "label": "仏領ポリネシア(French Polynesia)"
+    "label": "French Polynesia"
   },
   {
     "value": "fm",
-    "label": "ミクロネシア連邦(Micronesia (Federated States))"
+    "label": "Micronesia (Federated States)"
   },
   {
     "value": "fs",
-    "label": "仏領諸島(Terres australes et antarctiques francaises)"
+    "label": "Terres australes et antarctiques francaises"
   },
   {
     "value": "go",
-    "label": "ガボン(Gabon)"
+    "label": "Gabon"
   },
   {
     "value": "gm",
-    "label": "ガンビア(Gambia)"
+    "label": "Gambia"
   },
   {
     "value": "gz",
-    "label": "ガザ地帯(Gaza Strip)"
+    "label": "Gaza Strip"
   },
   {
     "value": "gs",
-    "label": "グルジア共和国(Georgia (Republic))"
+    "label": "Georgia (Republic)"
   },
   {
     "value": "gh",
-    "label": "ガーナ(Ghana)"
+    "label": "Ghana"
   },
   {
     "value": "gi",
-    "label": "ジブラルタル(Gibraltar)"
+    "label": "Gibraltar"
   },
   {
     "value": "gl",
-    "label": "グリーンランド(Greenland)"
+    "label": "Greenland"
   },
   {
     "value": "gd",
-    "label": "グレナダ(Grenada)"
+    "label": "Grenada"
   },
   {
     "value": "gp",
-    "label": "グアドループ島(Guadeloupe)"
+    "label": "Guadeloupe"
   },
   {
     "value": "gu",
-    "label": "グアム(Guam)"
+    "label": "Guam"
   },
   {
     "value": "gt",
-    "label": "グアテマラ(Guatemala)"
+    "label": "Guatemala"
   },
   {
     "value": "gg",
-    "label": "ガーンジー(Guernsey)"
+    "label": "Guernsey"
   },
   {
     "value": "gv",
-    "label": "ギニア(Guinea)"
+    "label": "Guinea"
   },
   {
     "value": "gy",
-    "label": "ガイアナ(Guyana)"
+    "label": "Guyana"
   },
   {
     "value": "gb",
-    "label": "キリバス(Kiribati)"
+    "label": "Kiribati"
   },
   {
     "value": "ht",
-    "label": "ハイチ(Haiti)"
+    "label": "Haiti"
   },
   {
     "value": "hm",
-    "label": "ヘアド島・マクドナルド島(Heard and McDonald Islands)"
+    "label": "Heard and McDonald Islands"
   },
   {
     "value": "ho",
-    "label": "ホンジュラス(Honduras)"
+    "label": "Honduras"
   },
   {
     "value": "hu",
-    "label": "ハンガリー(Hungary)"
+    "label": "Hungary"
   },
   {
     "value": "ic",
-    "label": "アイスランド(Iceland)"
+    "label": "Iceland"
   },
   {
     "value": "ir",
-    "label": "イラン(Iran)"
+    "label": "Iran"
   },
   {
     "value": "iq",
-    "label": "イラク(Iraq)"
+    "label": "Iraq"
   },
   {
     "value": "iy",
-    "label": "イラク-サウジアラビア中立地帯(Iraq-Saudi Arabia Neutral Zone)"
+    "label": "Iraq-Saudi Arabia Neutral Zone"
   },
   {
     "value": "ie",
-    "label": "アイルランド(Ireland)"
+    "label": "Ireland"
   },
   {
     "value": "is",
-    "label": "イスラエル(Israel)"
+    "label": "Israel"
   },
   {
     "value": "im",
-    "label": "マン島(Isle of Man)"
+    "label": "Isle of Man"
   },
   {
     "value": "iv",
-    "label": "コートジボアール(Cote d'Ivoire)"
+    "label": "Cote d'Ivoire"
   },
   {
     "value": "jm",
-    "label": "ジャマイカ(Jamaica)"
+    "label": "Jamaica"
   },
   {
     "value": "ji",
-    "label": "ジョンストン・アトール(Johnston Atoll)"
+    "label": "Johnston Atoll"
   },
   {
     "value": "jo",
-    "label": "ヨルダン(Jordan)"
+    "label": "Jordan"
   },
   {
     "value": "je",
-    "label": "ジャージー(Jersey)"
+    "label": "Jersey"
   },
   {
     "value": "kz",
-    "label": "カザフ共和国(Kazakhstan)"
+    "label": "Kazakhstan"
   },
   {
     "value": "ke",
-    "label": "ケニア(kenya)"
+    "label": "kenya"
   },
   {
     "value": "kv",
-    "label": "コソボ(Kosovo)"
+    "label": "Kosovo"
   },
   {
     "value": "ku",
-    "label": "クウェート(Kuwait)"
+    "label": "Kuwait"
   },
   {
     "value": "kg",
-    "label": "キルギス共和国(Kyrgyzstan)"
+    "label": "Kyrgyzstan"
   },
   {
     "value": "ls",
-    "label": "ラオス(Laos)"
+    "label": "Laos"
   },
   {
     "value": "lv",
-    "label": "ラトビア共和国(Latvia)"
+    "label": "Latvia"
   },
   {
     "value": "le",
-    "label": "レバノン(Lebanon)"
+    "label": "Lebanon"
   },
   {
     "value": "lo",
-    "label": "レソト(Lesotho)"
+    "label": "Lesotho"
   },
   {
     "value": "lb",
-    "label": "リベリア(Liberia)"
+    "label": "Liberia"
   },
   {
     "value": "ly",
-    "label": "リビア(Libya)"
+    "label": "Libya"
   },
   {
     "value": "lh",
-    "label": "リヒテンシュタイン(Liechtenstein)"
+    "label": "Liechtenstein"
   },
   {
     "value": "li",
-    "label": "リトアニア共和国(Lithuania)"
+    "label": "Lithuania"
   },
   {
     "value": "lu",
-    "label": "ルクセンブルク(Luxembourg)"
+    "label": "Luxembourg"
   },
   {
     "value": "mg",
-    "label": "マダガスカル(Madagascar)"
+    "label": "Madagascar"
   },
   {
     "value": "mw",
-    "label": "マラウイ(Malawi)"
+    "label": "Malawi"
   },
   {
     "value": "ml",
-    "label": "マリ(Mali)"
+    "label": "Mali"
   },
   {
     "value": "mm",
-    "label": "マルタ(Malta)"
+    "label": "Malta"
   },
   {
     "value": "mq",
-    "label": "マルチニーク島(Martinique)"
+    "label": "Martinique"
   },
   {
     "value": "mu",
-    "label": "モーリタニア(Mauritania)"
+    "label": "Mauritania"
   },
   {
     "value": "mf",
-    "label": "モーリシャス(Mauritius)"
+    "label": "Mauritius"
   },
   {
     "value": "mx",
-    "label": "メキシコ(Mexico)"
+    "label": "Mexico"
   },
   {
     "value": "mv",
-    "label": "モルダヴィア共和国(Moldova)"
+    "label": "Moldova"
   },
   {
     "value": "mc",
-    "label": "モナコ(Monaco)"
+    "label": "Monaco"
   },
   {
     "value": "mp",
-    "label": "モンゴル(Mongolia)"
+    "label": "Mongolia"
   },
   {
     "value": "mo",
-    "label": "モンテネグロ(Montenegro)"
+    "label": "Montenegro"
   },
   {
     "value": "mj",
-    "label": "モントセラト(Montserrat)"
+    "label": "Montserrat"
   },
   {
     "value": "mr",
-    "label": "モロッコ(Morocco)"
+    "label": "Morocco"
   },
   {
     "value": "mz",
-    "label": "モザンビーク(Mozambique)"
+    "label": "Mozambique"
   },
   {
     "value": "mk",
-    "label": "オマーン(Oman)"
+    "label": "Oman"
   },
   {
     "value": "nu",
-    "label": "ナウル(Nauru)"
+    "label": "Nauru"
   },
   {
     "value": "np",
-    "label": "ネパール(Nepal)"
+    "label": "Nepal"
   },
   {
     "value": "nl",
-    "label": "ニューカレドニア(New Caledonia)"
+    "label": "New Caledonia"
   },
   {
     "value": "nq",
-    "label": "ニカラグア(Nicaragua)"
+    "label": "Nicaragua"
   },
   {
     "value": "ng",
-    "label": "ニジェール(Niger)"
+    "label": "Niger"
   },
   {
     "value": "nr",
-    "label": "ナイジェリア(Nigeria)"
+    "label": "Nigeria"
   },
   {
     "value": "nx",
-    "label": "ノーフォーク島(Norfolk Island)"
+    "label": "Norfolk Island"
   },
   {
     "value": "nw",
-    "label": "北マリアナ連邦(Northern Mariana Islands)"
+    "label": "Northern Mariana Islands"
   },
   {
     "value": "no",
-    "label": "ノルウェー(Norway)"
+    "label": "Norway"
   },
   {
     "value": "nn",
-    "label": "バヌアツ(Vanuatu)"
+    "label": "Vanuatu"
   },
   {
     "value": "ot",
-    "label": "マイヨット島(Mayotte)"
+    "label": "Mayotte"
   },
   {
     "value": "pg",
-    "label": "ギニアビサオ(Guinea-Bissau)"
+    "label": "Guinea-Bissau"
   },
   {
     "value": "pk",
-    "label": "パキスタン(Pakistan)"
+    "label": "Pakistan"
   },
   {
     "value": "pw",
-    "label": "パラオ(Palau)"
+    "label": "Palau"
   },
   {
     "value": "pn",
-    "label": "パナマ(Panama)"
+    "label": "Panama"
   },
   {
     "value": "pp",
-    "label": "パプア・ニューギニア(Papua New Guinea)"
+    "label": "Papua New Guinea"
   },
   {
     "value": "pf",
@@ -721,211 +721,211 @@
   },
   {
     "value": "py",
-    "label": "パラグアイ(Paraguay)"
+    "label": "Paraguay"
   },
   {
     "value": "pe",
-    "label": "ペルー(Peru)"
+    "label": "Peru"
   },
   {
     "value": "pc",
-    "label": "ピトケアン島(Pitcairn Island)"
+    "label": "Pitcairn Island"
   },
   {
     "value": "pr",
-    "label": "プエルトリコ(Puerto Rico)"
+    "label": "Puerto Rico"
   },
   {
     "value": "qa",
-    "label": "カタール(Qatar)"
+    "label": "Qatar"
   },
   {
     "value": "re",
-    "label": "レユニオン(Reunion)"
+    "label": "Reunion"
   },
   {
     "value": "rm",
-    "label": "ルーマニア(Romania)"
+    "label": "Romania"
   },
   {
     "value": "rw",
-    "label": "ルワンダ(Rwanda)"
+    "label": "Rwanda"
   },
   {
     "value": "rb",
-    "label": "セルビア(Serbia)"
+    "label": "Serbia"
   },
   {
     "value": "rh",
-    "label": "ジンバブエ(Zimbabwe)"
+    "label": "Zimbabwe"
   },
   {
     "value": "sx",
-    "label": "ナミビア(Namibia)"
+    "label": "Namibia"
   },
   {
     "value": "sc",
-    "label": "サン・バルテルミー(Saint-Barthelemy)"
+    "label": "Saint-Barthelemy"
   },
   {
     "value": "st",
-    "label": "サン・マルタン(Saint-Martin)"
+    "label": "Saint-Martin"
   },
   {
     "value": "sm",
-    "label": "サンマリノ(San Marino)"
+    "label": "San Marino"
   },
   {
     "value": "sf",
-    "label": "サントメ・プリンシペ(Sao Tome and Principe)"
+    "label": "Sao Tome and Principe"
   },
   {
     "value": "su",
-    "label": "サウジアラビア(Saudi Arabia)"
+    "label": "Saudi Arabia"
   },
   {
     "value": "sg",
-    "label": "セネガル(Senegal)"
+    "label": "Senegal"
   },
   {
     "value": "se",
-    "label": "セイシェル(Seychelles)"
+    "label": "Seychelles"
   },
   {
     "value": "sl",
-    "label": "シエラレオネ(Sierra Leone)"
+    "label": "Sierra Leone"
   },
   {
     "value": "sn",
-    "label": "シント・マールテン(Sint Maarten)"
+    "label": "Sint Maarten"
   },
   {
     "value": "so",
-    "label": "ソマリア(Somalia)"
+    "label": "Somalia"
   },
   {
     "value": "sa",
-    "label": "南アフリカ共和国(South Africa)"
+    "label": "South Africa"
   },
   {
     "value": "sd",
-    "label": "南スーダン(South Sudan)"
+    "label": "South Sudan"
   },
   {
     "value": "sh",
-    "label": "西領北アフリカ(Spanish North Africa)"
+    "label": "Spanish North Africa"
   },
   {
     "value": "sj",
-    "label": "スーダン(Sudan)"
+    "label": "Sudan"
   },
   {
     "value": "sr",
-    "label": "スリナム(Surinam)"
+    "label": "Surinam"
   },
   {
     "value": "sq",
-    "label": "スワジランド(Swaziland)"
+    "label": "Swaziland"
   },
   {
     "value": "sy",
-    "label": "シリア(Syria)"
+    "label": "Syria"
   },
   {
     "value": "ss",
-    "label": "西サハラ(Western Sahara)"
+    "label": "Western Sahara"
   },
   {
     "value": "ta",
-    "label": "タジク共和国(Tajikstan)"
+    "label": "Tajikstan"
   },
   {
     "value": "tz",
-    "label": "タンザニア(Tanzania)"
+    "label": "Tanzania"
   },
   {
     "value": "tg",
-    "label": "トーゴ(Togo)"
+    "label": "Togo"
   },
   {
     "value": "tl",
-    "label": "トケラウ(Tokelau)"
+    "label": "Tokelau"
   },
   {
     "value": "to",
-    "label": "トンガ(Tonga)"
+    "label": "Tonga"
   },
   {
     "value": "tr",
-    "label": "トリニダード・トバゴ(Trinidad and Tobago)"
+    "label": "Trinidad and Tobago"
   },
   {
     "value": "ti",
-    "label": "チュニジア(Tunisia)"
+    "label": "Tunisia"
   },
   {
     "value": "tu",
-    "label": "トルコ(Turkey)"
+    "label": "Turkey"
   },
   {
     "value": "tk",
-    "label": "トゥルクメン共和国(Turkmenistan)"
+    "label": "Turkmenistan"
   },
   {
     "value": "tc",
-    "label": "タークス諸島・カイコス諸島(Turks and Caicos Islands)"
+    "label": "Turks and Caicos Islands"
   },
   {
     "value": "tv",
-    "label": "ツバル(Tuvalu)"
+    "label": "Tuvalu"
   },
   {
     "value": "ts",
-    "label": "アラブ首長国連邦(United Arab Emirates)"
+    "label": "United Arab Emirates"
   },
   {
     "value": "uv",
-    "label": "ブルキナファソ(Burkina Faso)"
+    "label": "Burkina Faso"
   },
   {
     "value": "ug",
-    "label": "ウガンダ(Uganda)"
+    "label": "Uganda"
   },
   {
     "value": "un",
-    "label": "ウクライナ共和国(Ukraine)"
+    "label": "Ukraine"
   },
   {
     "value": "uc",
-    "label": "米領カリブ海諸島(United States Miscellaneous Caribbean Islands)"
+    "label": "United States Miscellaneous Caribbean Islands"
   },
   {
     "value": "up",
-    "label": "米領太平洋諸島(United States Miscellaneous Pacific Islands)"
+    "label": "United States Miscellaneous Pacific Islands"
   },
   {
     "value": "uy",
-    "label": "ウルグアイ(Uruguay)"
+    "label": "Uruguay"
   },
   {
     "value": "uz",
-    "label": "ウズベク(Uzbekistan)"
+    "label": "Uzbekistan"
   },
   {
     "value": "vb",
-    "label": "英領バージン諸島(British Virgin Islands)"
+    "label": "British Virgin Islands"
   },
   {
     "value": "ve",
-    "label": "ベネズエラ(Venezuela)"
+    "label": "Venezuela"
   },
   {
     "value": "vm",
-    "label": "ベトナム(Vietnam)"
+    "label": "Vietnam"
   },
   {
     "value": "vi",
-    "label": "米領ヴァージン諸島(Virgin Islands of United States)"
+    "label": "Virgin Islands of United States"
   },
   {
     "value": "vp",
@@ -933,83 +933,83 @@
   },
   {
     "value": "ws",
-    "label": "西サモア(Western Samoa)"
+    "label": "Western Samoa"
   },
   {
     "value": "wk",
-    "label": "ウェーク島(Wake Island)"
+    "label": "Wake Island"
   },
   {
     "value": "wf",
-    "label": "ワリス諸島(Wallis and Futuna)"
+    "label": "Wallis and Futuna"
   },
   {
     "value": "wj",
-    "label": "ヨルダン川西岸(West Bank of the Jordan River)"
+    "label": "West Bank of the Jordan River"
   },
   {
     "value": "xa",
-    "label": "クリスマス島(Christmas Island)"
+    "label": "Christmas Island"
   },
   {
     "value": "xb",
-    "label": "ココス諸島(Cocos (Keeling) Islands)"
+    "label": "Cocos (Keeling) Islands"
   },
   {
     "value": "xr",
-    "label": "チェコ(Czech Republic)"
+    "label": "Czech Republic"
   },
   {
     "value": "xn",
-    "label": "マケドニア(Macedonia)"
+    "label": "Macedonia"
   },
   {
     "value": "xc",
-    "label": "モルジブ(Maldives)"
+    "label": "Maldives"
   },
   {
     "value": "xe",
-    "label": "マーシャル諸島(Marshall Islands)"
+    "label": "Marshall Islands"
   },
   {
     "value": "xf",
-    "label": "ミッドウェー諸島(Midway Islands)"
+    "label": "Midway Islands"
   },
   {
     "value": "xh",
-    "label": "ニウエ(Niue)"
+    "label": "Niue"
   },
   {
     "value": "xj",
-    "label": "セントヘレナ島(Saint Helena)"
+    "label": "Saint Helena"
   },
   {
     "value": "xd",
-    "label": "セントクリストファー・ネビス(Saint Kitts-Nevis)"
+    "label": "Saint Kitts-Nevis"
   },
   {
     "value": "xk",
-    "label": "セントルシア(Saint Lucia)"
+    "label": "Saint Lucia"
   },
   {
     "value": "xl",
-    "label": "サンピエール島・ミクロン島(Saint Pierre and Miquelon)"
+    "label": "Saint Pierre and Miquelon"
   },
   {
     "value": "xm",
-    "label": "セントビンセント・グレナディーン(Saint Vincent and the Grenadines)"
+    "label": "Saint Vincent and the Grenadines"
   },
   {
     "value": "xo",
-    "label": "スロバキア(Slovakia)"
+    "label": "Slovakia"
   },
   {
     "value": "xv",
-    "label": "スロベニア(Slovenia)"
+    "label": "Slovenia"
   },
   {
     "value": "xs",
-    "label": "南ジョージア・南サンドウィッチ諸島(South Georgia and the South Sandwich Islands)"
+    "label": "South Georgia and the South Sandwich Islands"
   },
   {
     "value": "xp",
@@ -1017,14 +1017,14 @@
   },
   {
     "value": "xx",
-    "label": "[出版地不明]、又は[s.l.]"
+    "label": "Unknown place of publication [s.l.]"
   },
   {
     "value": "ye",
-    "label": "イエメン(Yemen)"
+    "label": "Yemen"
   },
   {
     "value": "za",
-    "label": "ザンビア(Zambia)"
+    "label": "Zambia"
   }
 ]

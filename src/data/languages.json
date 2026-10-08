@@ -1,47 +1,47 @@
 [
   {
     "value": "jpn",
-    "label": "日本語(Japanese)"
+    "label": "Japanese"
   },
   {
     "value": "eng",
-    "label": "英語(English)"
+    "label": "English"
   },
   {
     "value": "chi",
-    "label": "中国語(Chinese)"
+    "label": "Chinese"
   },
   {
     "value": "fre",
-    "label": "フランス語(French)"
+    "label": "French"
   },
   {
     "value": "ger",
-    "label": "ドイツ語(German)"
+    "label": "German"
   },
   {
     "value": "ita",
-    "label": "イタリア語(Italian)"
+    "label": "Italian"
   },
   {
     "value": "tha",
-    "label": "タイ語(Thai)"
+    "label": "Thai"
   },
   {
     "value": "kor",
-    "label": "朝鮮語(Korean)"
+    "label": "Korean"
   },
   {
     "value": "por",
-    "label": "ポルトガル語(Portuguese)"
+    "label": "Portuguese"
   },
   {
     "value": "rus",
-    "label": "ロシア語(Russian)"
+    "label": "Russian"
   },
   {
     "value": "spa",
-    "label": "スペイン語(Spanish)"
+    "label": "Spanish"
   },
   {
     "value": "abk",
@@ -49,7 +49,7 @@
   },
   {
     "value": "ace",
-    "label": "アチェー語(Achinese)"
+    "label": "Achinese"
   },
   {
     "value": "ach",
@@ -73,11 +73,11 @@
   },
   {
     "value": "afr",
-    "label": "アフリカーンス語(Afrikaans)"
+    "label": "Afrikaans"
   },
   {
     "value": "afa",
-    "label": "セム・ハム諸語(Afro-Asiatic (Other))"
+    "label": "Afro-Asiatic (Other)"
   },
   {
     "value": "ain",
@@ -85,23 +85,23 @@
   },
   {
     "value": "aka",
-    "label": "アカン語(Akan)"
+    "label": "Akan"
   },
   {
     "value": "akk",
-    "label": "アッカド語(Akkadian)"
+    "label": "Akkadian"
   },
   {
     "value": "alb",
-    "label": "アルバニア語(Albanian)"
+    "label": "Albanian"
   },
   {
     "value": "ale",
-    "label": "アレウト語(Aleut)"
+    "label": "Aleut"
   },
   {
     "value": "alg",
-    "label": "アルゴンキアン語族(Algonquian languages)"
+    "label": "Algonquian languages"
   },
   {
     "value": "alt",
@@ -109,7 +109,7 @@
   },
   {
     "value": "amh",
-    "label": "アムハラ語(Amharic)"
+    "label": "Amharic"
   },
   {
     "value": "anp",
@@ -117,11 +117,11 @@
   },
   {
     "value": "apa",
-    "label": "アパッチ語族(Apache languages)"
+    "label": "Apache languages"
   },
   {
     "value": "ara",
-    "label": "アラビア語(Arabic)"
+    "label": "Arabic"
   },
   {
     "value": "arg",
@@ -129,11 +129,11 @@
   },
   {
     "value": "arc",
-    "label": "アラム語(Aramaic)"
+    "label": "Aramaic"
   },
   {
     "value": "arp",
-    "label": "アラパホー語(Arapaho)"
+    "label": "Arapaho"
   },
   {
     "value": "arn",
@@ -141,23 +141,23 @@
   },
   {
     "value": "arw",
-    "label": "アラワク語(Arawak)"
+    "label": "Arawak"
   },
   {
     "value": "arm",
-    "label": "アルメニア語(Armenian)"
+    "label": "Armenian"
   },
   {
     "value": "art",
-    "label": "人工諸語(Artificial (Other))"
+    "label": "Artificial (Other)"
   },
   {
     "value": "asm",
-    "label": "アッサム語(Assamese)"
+    "label": "Assamese"
   },
   {
     "value": "ath",
-    "label": "アサパスカン諸語(Athapascan (Other))"
+    "label": "Athapascan (Other)"
   },
   {
     "value": "aus",
@@ -165,11 +165,11 @@
   },
   {
     "value": "ava",
-    "label": "アヴァル語(Avaric)"
+    "label": "Avaric"
   },
   {
     "value": "ave",
-    "label": "アヴェスタ語(Avesta)"
+    "label": "Avesta"
   },
   {
     "value": "awa",
@@ -177,11 +177,11 @@
   },
   {
     "value": "aym",
-    "label": "アイマラ語(Aymara)"
+    "label": "Aymara"
   },
   {
     "value": "aze",
-    "label": "アゼルバイジャン語(Azerbaijani)"
+    "label": "Azerbaijani"
   },
   {
     "value": "ast",
@@ -189,23 +189,23 @@
   },
   {
     "value": "ang",
-    "label": "古期英語(English, Old (ca. 450-1100))"
+    "label": "English, Old (ca. 450-1100)"
   },
   {
     "value": "ban",
-    "label": "バリ語(Balinese)"
+    "label": "Balinese"
   },
   {
     "value": "bat",
-    "label": "バルト諸語(Baltic (Other))"
+    "label": "Baltic (Other)"
   },
   {
     "value": "bal",
-    "label": "バルーチー語(Baluchi)"
+    "label": "Baluchi"
   },
   {
     "value": "bam",
-    "label": "バンバラ語(Bambara)"
+    "label": "Bambara"
   },
   {
     "value": "bai",
@@ -217,7 +217,7 @@
   },
   {
     "value": "bnt",
-    "label": "バントゥ諸語(Bantu (Other))"
+    "label": "Bantu (Other)"
   },
   {
     "value": "bas",
@@ -225,19 +225,19 @@
   },
   {
     "value": "bak",
-    "label": "バシキール語(Bashkir)"
+    "label": "Bashkir"
   },
   {
     "value": "baq",
-    "label": "バスク語(Basque)"
+    "label": "Basque"
   },
   {
     "value": "btk",
-    "label": "バタク語(Batak)"
+    "label": "Batak"
   },
   {
     "value": "bej",
-    "label": "ベジャ語(Beja)"
+    "label": "Beja"
   },
   {
     "value": "bel",
@@ -245,19 +245,19 @@
   },
   {
     "value": "bem",
-    "label": "ベンバ語(Bemba)"
+    "label": "Bemba"
   },
   {
     "value": "ben",
-    "label": "ベンガル語(Bengali)"
+    "label": "Bengali"
   },
   {
     "value": "ber",
-    "label": "ベルベル諸語(Berber (Other))"
+    "label": "Berber (Other)"
   },
   {
     "value": "bho",
-    "label": "ボージプリー語(Bhojpuri)"
+    "label": "Bhojpuri"
   },
   {
     "value": "bih",
@@ -265,7 +265,7 @@
   },
   {
     "value": "bik",
-    "label": "ビコル語(Bikol)"
+    "label": "Bikol"
   },
   {
     "value": "bin",
@@ -285,15 +285,15 @@
   },
   {
     "value": "bre",
-    "label": "ブルトン語(Breton)"
+    "label": "Breton"
   },
   {
     "value": "bug",
-    "label": "ブギ語(Buginese)"
+    "label": "Buginese"
   },
   {
     "value": "bul",
-    "label": "ブルガリア語(Bulgarian)"
+    "label": "Bulgarian"
   },
   {
     "value": "bua",
@@ -301,7 +301,7 @@
   },
   {
     "value": "bur",
-    "label": "ビルマ語(Burmese)"
+    "label": "Burmese"
   },
   {
     "value": "byn",
@@ -313,35 +313,35 @@
   },
   {
     "value": "cad",
-    "label": "カドー語(Caddo)"
+    "label": "Caddo"
   },
   {
     "value": "car",
-    "label": "カリブ語(Carib)"
+    "label": "Carib"
   },
   {
     "value": "cat",
-    "label": "カタロニア語(Catalan)"
+    "label": "Catalan"
   },
   {
     "value": "cau",
-    "label": "コーカサス諸語(Caucasian (Other))"
+    "label": "Caucasian (Other)"
   },
   {
     "value": "ceb",
-    "label": "セブアノ語(Cebuano)"
+    "label": "Cebuano"
   },
   {
     "value": "cel",
-    "label": "ケルト諸語(Celtic (Other))"
+    "label": "Celtic (Other)"
   },
   {
     "value": "cai",
-    "label": "中米インディアン諸語(Central American Indian (Other))"
+    "label": "Central American Indian (Other)"
   },
   {
     "value": "chg",
-    "label": "チャガタイ語(Chagatai)"
+    "label": "Chagatai"
   },
   {
     "value": "cmc",
@@ -349,27 +349,27 @@
   },
   {
     "value": "cha",
-    "label": "チャモロ語(Chamorro)"
+    "label": "Chamorro"
   },
   {
     "value": "che",
-    "label": "チェチェン語(Chechen)"
+    "label": "Chechen"
   },
   {
     "value": "chr",
-    "label": "チェロキー語(Cherokee)"
+    "label": "Cherokee"
   },
   {
     "value": "chy",
-    "label": "シャイアン語(Cheyenne)"
+    "label": "Cheyenne"
   },
   {
     "value": "chb",
-    "label": "チブチャ語(Chibcha)"
+    "label": "Chibcha"
   },
   {
     "value": "chn",
-    "label": "ビーチ・ラ・マー等(Chinook jargon)"
+    "label": "Chinook jargon"
   },
   {
     "value": "chp",
@@ -377,23 +377,23 @@
   },
   {
     "value": "cho",
-    "label": "チョクトー語(Choctaw)"
+    "label": "Choctaw"
   },
   {
     "value": "chu",
-    "label": "教会スラブ語(Church Slavic)"
+    "label": "Church Slavic"
   },
   {
     "value": "chv",
-    "label": "チュヴァシュ語(Chuvash)"
+    "label": "Chuvash"
   },
   {
     "value": "cop",
-    "label": "コプト語(Coptic)"
+    "label": "Coptic"
   },
   {
     "value": "cor",
-    "label": "コーンウォール語(Cornish)"
+    "label": "Cornish"
   },
   {
     "value": "cos",
@@ -401,23 +401,23 @@
   },
   {
     "value": "cre",
-    "label": "クリー語(Cree)"
+    "label": "Cree"
   },
   {
     "value": "cpe",
-    "label": "英語が基盤の混成語・混合語(Creoles and Pidgins, English-based (Other))"
+    "label": "Creoles and Pidgins, English-based (Other)"
   },
   {
     "value": "cpf",
-    "label": "仏語が基盤の混成語・混合語(Creoles and Pidgins, French-based (Other))"
+    "label": "Creoles and Pidgins, French-based (Other)"
   },
   {
     "value": "cpp",
-    "label": "葡語が基盤の混成語・混合語(Creoles and Pidgins, Portuguese-based (Other))"
+    "label": "Creoles and Pidgins, Portuguese-based (Other)"
   },
   {
     "value": "crp",
-    "label": "その他の混成語・混合語(Creoles and Pidgins (Other))"
+    "label": "Creoles and Pidgins (Other)"
   },
   {
     "value": "crh",
@@ -429,11 +429,11 @@
   },
   {
     "value": "cus",
-    "label": "クシュ諸語(Cushitic (Other))"
+    "label": "Cushitic (Other)"
   },
   {
     "value": "cze",
-    "label": "チェコ語(Czech)"
+    "label": "Czech"
   },
   {
     "value": "chm",
@@ -441,7 +441,7 @@
   },
   {
     "value": "cnr",
-    "label": "モンテネグロ語(Montenegrin)"
+    "label": "Montenegrin"
   },
   {
     "value": "chk",
@@ -449,11 +449,11 @@
   },
   {
     "value": "dak",
-    "label": "ダコタ語(Dakota)"
+    "label": "Dakota"
   },
   {
     "value": "dan",
-    "label": "デンマーク語(Danish)"
+    "label": "Danish"
   },
   {
     "value": "dar",
@@ -461,15 +461,15 @@
   },
   {
     "value": "day",
-    "label": "ダヤク語(Dayak)"
+    "label": "Dayak"
   },
   {
     "value": "del",
-    "label": "デラウェア語(Delaware)"
+    "label": "Delaware"
   },
   {
     "value": "din",
-    "label": "ディンカ語(Dinka)"
+    "label": "Dinka"
   },
   {
     "value": "div",
@@ -485,7 +485,7 @@
   },
   {
     "value": "dra",
-    "label": "ドラヴィダ諸語(Dravidian (Other))"
+    "label": "Dravidian (Other)"
   },
   {
     "value": "dsb",
@@ -497,11 +497,11 @@
   },
   {
     "value": "dut",
-    "label": "オランダ語(Dutch)"
+    "label": "Dutch"
   },
   {
     "value": "dum",
-    "label": "中世オランダ語(Dutch, Middle (ca. 1050-1350))"
+    "label": "Dutch, Middle (ca. 1050-1350)"
   },
   {
     "value": "dyu",
@@ -509,7 +509,7 @@
   },
   {
     "value": "dzo",
-    "label": "ゾンカ語(Dzongkha)"
+    "label": "Dzongkha"
   },
   {
     "value": "den",
@@ -517,11 +517,11 @@
   },
   {
     "value": "efi",
-    "label": "エフィク語(Efik)"
+    "label": "Efik"
   },
   {
     "value": "egy",
-    "label": "エジプト語(Egyptian)"
+    "label": "Egyptian"
   },
   {
     "value": "eka",
@@ -529,23 +529,23 @@
   },
   {
     "value": "elx",
-    "label": "エラム語(Elamite)"
+    "label": "Elamite"
   },
   {
     "value": "enm",
-    "label": "中世英語(English, Middle (1100-1500))"
+    "label": "English, Middle (1100-1500)"
   },
   {
     "value": "epo",
-    "label": "エスペラント(Esperanto)"
+    "label": "Esperanto"
   },
   {
     "value": "est",
-    "label": "エストニア語(Estonian)"
+    "label": "Estonian"
   },
   {
     "value": "ewe",
-    "label": "エウェ語(Ewe)"
+    "label": "Ewe"
   },
   {
     "value": "ewo",
@@ -557,15 +557,15 @@
   },
   {
     "value": "fat",
-    "label": "ファンティー語(Fanti)"
+    "label": "Fanti"
   },
   {
     "value": "fao",
-    "label": "フェロー語(Faroese)"
+    "label": "Faroese"
   },
   {
     "value": "fij",
-    "label": "フィジー語(Fijian)"
+    "label": "Fijian"
   },
   {
     "value": "fil",
@@ -573,11 +573,11 @@
   },
   {
     "value": "fin",
-    "label": "フィン語(Finnish)"
+    "label": "Finnish"
   },
   {
     "value": "fiu",
-    "label": "フィン・ウゴル諸語(Finno-Ugrian (Other))"
+    "label": "Finno-Ugrian (Other)"
   },
   {
     "value": "fon",
@@ -585,11 +585,11 @@
   },
   {
     "value": "frm",
-    "label": "中世フランス語(French, Middle (ca. 1300-1600))"
+    "label": "French, Middle (ca. 1300-1600)"
   },
   {
     "value": "fro",
-    "label": "古フランス語(French, Old (ca. 842-1300))"
+    "label": "French, Old (ca. 842-1300)"
   },
   {
     "value": "frr",
@@ -609,15 +609,15 @@
   },
   {
     "value": "ful",
-    "label": "フラ語(Fula)"
+    "label": "Fula"
   },
   {
     "value": "gez",
-    "label": "エチオピア語(Ethiopic)"
+    "label": "Ethiopic"
   },
   {
     "value": "gaa",
-    "label": "ガ語(Ga)"
+    "label": "Ga"
   },
   {
     "value": "gla",
@@ -633,39 +633,39 @@
   },
   {
     "value": "gba",
-    "label": "バヤ語(Gbaya)"
+    "label": "Gbaya"
   },
   {
     "value": "geo",
-    "label": "グルジア語(Georgian)"
+    "label": "Georgian"
   },
   {
     "value": "gmh",
-    "label": "中高ドイツ語(German, Middle High (ca. 1050-1500))"
+    "label": "German, Middle High (ca. 1050-1500)"
   },
   {
     "value": "goh",
-    "label": "古高ドイツ語(German, Old High (ca. 750-1050))"
+    "label": "German, Old High (ca. 750-1050)"
   },
   {
     "value": "gem",
-    "label": "ゲルマン諸語(Germanic (Other))"
+    "label": "Germanic (Other)"
   },
   {
     "value": "gil",
-    "label": "キリバス語(Gilbertese)"
+    "label": "Gilbertese"
   },
   {
     "value": "gon",
-    "label": "ゴーンディー語(Gondi)"
+    "label": "Gondi"
   },
   {
     "value": "gor",
-    "label": "ゴロンタロ語(Gorontalo)"
+    "label": "Gorontalo"
   },
   {
     "value": "got",
-    "label": "ゴート語(Gothic)"
+    "label": "Gothic"
   },
   {
     "value": "grb",
@@ -673,15 +673,15 @@
   },
   {
     "value": "grc",
-    "label": "古代ギリシャ語(Greek, Ancient (to 1453))"
+    "label": "Greek, Ancient (to 1453)"
   },
   {
     "value": "gre",
-    "label": "現代ギリシャ語(Greek, Modern (1453-))"
+    "label": "Greek, Modern (1453-)"
   },
   {
     "value": "grn",
-    "label": "グアラニー語(Guarani)"
+    "label": "Guarani"
   },
   {
     "value": "gsw",
@@ -689,7 +689,7 @@
   },
   {
     "value": "guj",
-    "label": "グジャラーティー語(Gujarati)"
+    "label": "Gujarati"
   },
   {
     "value": "gwi",
@@ -697,19 +697,19 @@
   },
   {
     "value": "gle",
-    "label": "アイルランド語(Irish)"
+    "label": "Irish"
   },
   {
     "value": "glv",
-    "label": "マン島語(Manx)"
+    "label": "Manx"
   },
   {
     "value": "hrv",
-    "label": "クロアチア語(Croatian)"
+    "label": "Croatian"
   },
   {
     "value": "hai",
-    "label": "ハイダ語(Haida)"
+    "label": "Haida"
   },
   {
     "value": "hat",
@@ -717,19 +717,19 @@
   },
   {
     "value": "hau",
-    "label": "ハウサ語(Hausa)"
+    "label": "Hausa"
   },
   {
     "value": "haw",
-    "label": "ハワイ語(Hawaiian)"
+    "label": "Hawaiian"
   },
   {
     "value": "heb",
-    "label": "ヘブライ語(Hebrew)"
+    "label": "Hebrew"
   },
   {
     "value": "her",
-    "label": "ヘレロ語(Herero)"
+    "label": "Herero"
   },
   {
     "value": "hil",
@@ -741,7 +741,7 @@
   },
   {
     "value": "hin",
-    "label": "ヒンディー語(Hindi)"
+    "label": "Hindi"
   },
   {
     "value": "hmo",
@@ -761,11 +761,11 @@
   },
   {
     "value": "hun",
-    "label": "ハンガリー語(Hungarian)"
+    "label": "Hungarian"
   },
   {
     "value": "hup",
-    "label": "アタパスカ語(Hupa)"
+    "label": "Hupa"
   },
   {
     "value": "hmb",
@@ -773,19 +773,19 @@
   },
   {
     "value": "iba",
-    "label": "イバン語(Iban)"
+    "label": "Iban"
   },
   {
     "value": "ice",
-    "label": "アイスランド語(Icelandic)"
+    "label": "Icelandic"
   },
   {
     "value": "ido",
-    "label": "イド語(ido)"
+    "label": "ido"
   },
   {
     "value": "ibo",
-    "label": "イボ語(Igbo)"
+    "label": "Igbo"
   },
   {
     "value": "ijo",
@@ -793,19 +793,19 @@
   },
   {
     "value": "ilo",
-    "label": "イロカノ語(Iloko)"
+    "label": "Iloko"
   },
   {
     "value": "inc",
-    "label": "インド諸語(Indic (Other))"
+    "label": "Indic (Other)"
   },
   {
     "value": "ine",
-    "label": "印欧諸語(Indo-European (Other))"
+    "label": "Indo-European (Other)"
   },
   {
     "value": "ind",
-    "label": "インドネシア語(Indonesian)"
+    "label": "Indonesian"
   },
   {
     "value": "inh",
@@ -813,7 +813,7 @@
   },
   {
     "value": "ina",
-    "label": "インターリングァ(Interlingua (International Auxiliary Language Association))"
+    "label": "Interlingua (International Auxiliary Language Association)"
   },
   {
     "value": "ile",
@@ -829,11 +829,11 @@
   },
   {
     "value": "ira",
-    "label": "イラン諸語(Iranian (Other))"
+    "label": "Iranian (Other)"
   },
   {
     "value": "iro",
-    "label": "イロコイ諸語(Iroquoian (Other))"
+    "label": "Iroquoian (Other)"
   },
   {
     "value": "iii",
@@ -841,7 +841,7 @@
   },
   {
     "value": "jav",
-    "label": "ジャワ語(Javanese)"
+    "label": "Javanese"
   },
   {
     "value": "jbo",
@@ -861,11 +861,11 @@
   },
   {
     "value": "kab",
-    "label": "カビル語(Kabyle)"
+    "label": "Kabyle"
   },
   {
     "value": "kac",
-    "label": "カチン語(Kachin)"
+    "label": "Kachin"
   },
   {
     "value": "kal",
@@ -873,27 +873,27 @@
   },
   {
     "value": "kam",
-    "label": "カンバ語(Kamba)"
+    "label": "Kamba"
   },
   {
     "value": "kan",
-    "label": "カンナダ語(Kannada)"
+    "label": "Kannada"
   },
   {
     "value": "kau",
-    "label": "カヌリ語(Kanuri)"
+    "label": "Kanuri"
   },
   {
     "value": "kaa",
-    "label": "カラ・カルパク語(Kara-Kalpak)"
+    "label": "Kara-Kalpak"
   },
   {
     "value": "kar",
-    "label": "カレン語族(Karen languages)"
+    "label": "Karen languages"
   },
   {
     "value": "kas",
-    "label": "カシミーリー語(Kashmiri)"
+    "label": "Kashmiri"
   },
   {
     "value": "kaw",
@@ -901,7 +901,7 @@
   },
   {
     "value": "kaz",
-    "label": "カザーフ語(Kazakh)"
+    "label": "Kazakh"
   },
   {
     "value": "kha",
@@ -909,11 +909,11 @@
   },
   {
     "value": "khm",
-    "label": "クメール語(Khmer)"
+    "label": "Khmer"
   },
   {
     "value": "khi",
-    "label": "コイサン諸語(Khoisan (Other))"
+    "label": "Khoisan (Other)"
   },
   {
     "value": "kho",
@@ -921,15 +921,15 @@
   },
   {
     "value": "kik",
-    "label": "キクユ語(Kikuyu)"
+    "label": "Kikuyu"
   },
   {
     "value": "kin",
-    "label": "ルワンダ語(Ruanda)"
+    "label": "Ruanda"
   },
   {
     "value": "kir",
-    "label": "キルギス語(Kirghiz)"
+    "label": "Kirghiz"
   },
   {
     "value": "kom",
@@ -937,15 +937,15 @@
   },
   {
     "value": "kon",
-    "label": "コンゴ語(Kongo)"
+    "label": "Kongo"
   },
   {
     "value": "kok",
-    "label": "コンカニー語(Konkani)"
+    "label": "Konkani"
   },
   {
     "value": "kpe",
-    "label": "クペレ語(Kpelle)"
+    "label": "Kpelle"
   },
   {
     "value": "krc",
@@ -957,7 +957,7 @@
   },
   {
     "value": "kro",
-    "label": "クルー諸語(Kru (Other))"
+    "label": "Kru (Other)"
   },
   {
     "value": "kua",
@@ -969,11 +969,11 @@
   },
   {
     "value": "kur",
-    "label": "クルド語(Kurdish)"
+    "label": "Kurdish"
   },
   {
     "value": "kru",
-    "label": "クルク語(Kurukh)"
+    "label": "Kurukh"
   },
   {
     "value": "kos",
@@ -981,19 +981,19 @@
   },
   {
     "value": "kut",
-    "label": "クテナイ語(Kootenai)"
+    "label": "Kootenai"
   },
   {
     "value": "lug",
-    "label": "ガンダ語(Ganda)"
+    "label": "Ganda"
   },
   {
     "value": "lad",
-    "label": "ラジノ語(Ladino)"
+    "label": "Ladino"
   },
   {
     "value": "lah",
-    "label": "ラフンダー語(Lahnd)"
+    "label": "Lahnd"
   },
   {
     "value": "lam",
@@ -1001,15 +1001,15 @@
   },
   {
     "value": "lao",
-    "label": "ラオ語(Lao)"
+    "label": "Lao"
   },
   {
     "value": "lat",
-    "label": "ラテン語(Latin)"
+    "label": "Latin"
   },
   {
     "value": "lav",
-    "label": "ラトヴィア語(Latvian)"
+    "label": "Latvian"
   },
   {
     "value": "ltz",
@@ -1025,11 +1025,11 @@
   },
   {
     "value": "lin",
-    "label": "リンガラ語(Lingala)"
+    "label": "Lingala"
   },
   {
     "value": "lit",
-    "label": "リトアニア語(Lithuanian)"
+    "label": "Lithuanian"
   },
   {
     "value": "loz",
@@ -1037,7 +1037,7 @@
   },
   {
     "value": "lub",
-    "label": "ルバ語(Luba-Katanga)"
+    "label": "Luba-Katanga"
   },
   {
     "value": "lua",
@@ -1045,7 +1045,7 @@
   },
   {
     "value": "lui",
-    "label": "ルイセニョ語(Luiseno)"
+    "label": "Luiseno"
   },
   {
     "value": "lun",
@@ -1053,23 +1053,23 @@
   },
   {
     "value": "luo",
-    "label": "ルオ語(Luo (Kenya and Tanzania))"
+    "label": "Luo (Kenya and Tanzania)"
   },
   {
     "value": "lus",
-    "label": "ルシャイ語(Lushai)"
+    "label": "Lushai"
   },
   {
     "value": "lol",
-    "label": "モンゴ語(Mongo)"
+    "label": "Mongo"
   },
   {
     "value": "map",
-    "label": "オーストロネシア諸語(Austronesian (Other))"
+    "label": "Austronesian (Other)"
   },
   {
     "value": "mus",
-    "label": "クリーク語(Creek)"
+    "label": "Creek"
   },
   {
     "value": "mga",
@@ -1077,11 +1077,11 @@
   },
   {
     "value": "mac",
-    "label": "マケドニア語(Macedonian)"
+    "label": "Macedonian"
   },
   {
     "value": "mad",
-    "label": "マドゥラ語(Madurese)"
+    "label": "Madurese"
   },
   {
     "value": "mag",
@@ -1093,7 +1093,7 @@
   },
   {
     "value": "mak",
-    "label": "マカッサル語(Makasar)"
+    "label": "Makasar"
   },
   {
     "value": "mdf",
@@ -1101,19 +1101,19 @@
   },
   {
     "value": "mlg",
-    "label": "マラガシ語(Malagasy)"
+    "label": "Malagasy"
   },
   {
     "value": "may",
-    "label": "マライ語(Malay)"
+    "label": "Malay"
   },
   {
     "value": "mal",
-    "label": "マラヤーラム語(Malayalam)"
+    "label": "Malayalam"
   },
   {
     "value": "mlt",
-    "label": "マルタ語(Maltese)"
+    "label": "Maltese"
   },
   {
     "value": "mnc",
@@ -1121,11 +1121,11 @@
   },
   {
     "value": "mdr",
-    "label": "マンダル語(Mandar)"
+    "label": "Mandar"
   },
   {
     "value": "man",
-    "label": "マンディンゴ語(Mandingo)"
+    "label": "Mandingo"
   },
   {
     "value": "mni",
@@ -1133,19 +1133,19 @@
   },
   {
     "value": "mno",
-    "label": "マノボ語(Manobo languages)"
+    "label": "Manobo languages"
   },
   {
     "value": "mao",
-    "label": "マオリ語(Maori)"
+    "label": "Maori"
   },
   {
     "value": "mar",
-    "label": "マラーティー語(Marathi)"
+    "label": "Marathi"
   },
   {
     "value": "mah",
-    "label": "マーシャル語(Marshallese)"
+    "label": "Marshallese"
   },
   {
     "value": "mwr",
@@ -1153,35 +1153,35 @@
   },
   {
     "value": "mas",
-    "label": "マサイ語(Maasai)"
+    "label": "Maasai"
   },
   {
     "value": "myn",
-    "label": "マヤ語族(Mayan languages)"
+    "label": "Mayan languages"
   },
   {
     "value": "men",
-    "label": "メンデ語(Mende)"
+    "label": "Mende"
   },
   {
     "value": "mic",
-    "label": "ミクマク語(Micmac)"
+    "label": "Micmac"
   },
   {
     "value": "min",
-    "label": "ミナンカバウ語(Minangkabau)"
+    "label": "Minangkabau"
   },
   {
     "value": "moh",
-    "label": "モーホーク語(Mohawk)"
+    "label": "Mohawk"
   },
   {
     "value": "mkh",
-    "label": "モン・クメール諸語(Mon-Khmer (Other))"
+    "label": "Mon-Khmer (Other)"
   },
   {
     "value": "mon",
-    "label": "モンゴル語(Mongolian)"
+    "label": "Mongolian"
   },
   {
     "value": "mos",
@@ -1189,7 +1189,7 @@
   },
   {
     "value": "mun",
-    "label": "ムンダ諸語(Munda (Other))"
+    "label": "Munda (Other)"
   },
   {
     "value": "mwl",
@@ -1201,15 +1201,15 @@
   },
   {
     "value": "mis",
-    "label": "[その他の言語](Miscellaneous languages)"
+    "label": "Miscellaneous languages"
   },
   {
     "value": "mul",
-    "label": "[多言語](Multiple languages)"
+    "label": "Multiple languages"
   },
   {
     "value": "nah",
-    "label": "Nahuatl(Nahuatl←Aztec(アステカ語))"
+    "label": "Nahuatl (Aztec)"
   },
   {
     "value": "nds",
@@ -1217,11 +1217,11 @@
   },
   {
     "value": "nau",
-    "label": "ナウル語(Nauru)"
+    "label": "Nauru"
   },
   {
     "value": "nav",
-    "label": "ナヴァホ語(Navajo)"
+    "label": "Navajo"
   },
   {
     "value": "nbl",
@@ -1229,7 +1229,7 @@
   },
   {
     "value": "nde",
-    "label": "マタベレ語(Ndebele (Zimbabwe))"
+    "label": "Ndebele (Zimbabwe)"
   },
   {
     "value": "ndo",
@@ -1241,11 +1241,11 @@
   },
   {
     "value": "nep",
-    "label": "ネパール語(Nepali)"
+    "label": "Nepali"
   },
   {
     "value": "new",
-    "label": "ネワール語(Newari)"
+    "label": "Newari"
   },
   {
     "value": "nia",
@@ -1253,11 +1253,11 @@
   },
   {
     "value": "nic",
-    "label": "ニジェール・コルドファン諸語(Niger-Kordofanian (Other))"
+    "label": "Niger-Kordofanian (Other)"
   },
   {
     "value": "niu",
-    "label": "ニウーエイ語(Niuean)"
+    "label": "Niuean"
   },
   {
     "value": "nog",
@@ -1269,7 +1269,7 @@
   },
   {
     "value": "nai",
-    "label": "北米インディアン諸語(North American Indian (Other))"
+    "label": "North American Indian (Other)"
   },
   {
     "value": "nso",
@@ -1277,7 +1277,7 @@
   },
   {
     "value": "nor",
-    "label": "ノルウェー語(Norwegian)"
+    "label": "Norwegian"
   },
   {
     "value": "nob",
@@ -1289,7 +1289,7 @@
   },
   {
     "value": "nub",
-    "label": "ヌバ語(Nubian languages)"
+    "label": "Nubian languages"
   },
   {
     "value": "nwc",
@@ -1297,11 +1297,11 @@
   },
   {
     "value": "nym",
-    "label": "ムエジ語(Nyamwezi)"
+    "label": "Nyamwezi"
   },
   {
     "value": "nya",
-    "label": "ニャンジャ語(Nyanja)"
+    "label": "Nyanja"
   },
   {
     "value": "nyn",
@@ -1317,11 +1317,11 @@
   },
   {
     "value": "non",
-    "label": "古期スカンジナビア語(Old Norse)"
+    "label": "Old Norse"
   },
   {
     "value": "oji",
-    "label": "オジブワ語(Ojibwa ← Chippewa(チペア語))"
+    "label": "Ojibwa (Chippewa)"
   },
   {
     "value": "oci",
@@ -1329,7 +1329,7 @@
   },
   {
     "value": "ori",
-    "label": "オリヤー語(Oriya)"
+    "label": "Oriya"
   },
   {
     "value": "orm",
@@ -1337,59 +1337,59 @@
   },
   {
     "value": "osa",
-    "label": "オーセージ語(Osage)"
+    "label": "Osage"
   },
   {
     "value": "oss",
-    "label": "オセト語(Ossetic)"
+    "label": "Ossetic"
   },
   {
     "value": "oto",
-    "label": "オトミ語族(Otomian languages)"
+    "label": "Otomian languages"
   },
   {
     "value": "ota",
-    "label": "オスマントルコ語(Turkish, Ottoman ← Ottoman Turkish)"
+    "label": "Turkish, Ottoman ← Ottoman Turkish"
   },
   {
     "value": "peo",
-    "label": "古代ペルシャ語(Old Persian (ca. 600-400 B.C.))"
+    "label": "Old Persian (ca. 600-400 B.C.)"
   },
   {
     "value": "pal",
-    "label": "パーラヴィー語(Pahlavi)"
+    "label": "Pahlavi"
   },
   {
     "value": "pau",
-    "label": "パラオ語(Palauan)"
+    "label": "Palauan"
   },
   {
     "value": "pli",
-    "label": "パーリ語(Pali)"
+    "label": "Pali"
   },
   {
     "value": "pam",
-    "label": "パンパンガ語(Pampanga)"
+    "label": "Pampanga"
   },
   {
     "value": "pag",
-    "label": "パンガシナーン語(Pangasinan)"
+    "label": "Pangasinan"
   },
   {
     "value": "pan",
-    "label": "パンジャブ語(Panjabi)"
+    "label": "Panjabi"
   },
   {
     "value": "pap",
-    "label": "パピアメント(Papiamento)"
+    "label": "Papiamento"
   },
   {
     "value": "paa",
-    "label": "パプア諸語(Papuan-Australian (Other))"
+    "label": "Papuan-Australian (Other)"
   },
   {
     "value": "per",
-    "label": "ペルシャ語(Persian)"
+    "label": "Persian"
   },
   {
     "value": "phi",
@@ -1401,7 +1401,7 @@
   },
   {
     "value": "pol",
-    "label": "ポーランド語(Polish)"
+    "label": "Polish"
   },
   {
     "value": "pon",
@@ -1409,19 +1409,19 @@
   },
   {
     "value": "pra",
-    "label": "プラークリット諸語(Prakrit languages)"
+    "label": "Prakrit languages"
   },
   {
     "value": "pro",
-    "label": "古期プロヴァンス語(Provencal, Old (to 1500))"
+    "label": "Provencal, Old (to 1500)"
   },
   {
     "value": "pus",
-    "label": "プシュトゥー語(Pushto)"
+    "label": "Pushto"
   },
   {
     "value": "que",
-    "label": "キチュワ語(Quechua)"
+    "label": "Quechua"
   },
   {
     "value": "rup",
@@ -1429,19 +1429,19 @@
   },
   {
     "value": "rum",
-    "label": "ルーマニア語(Romanian)"
+    "label": "Romanian"
   },
   {
     "value": "roh",
-    "label": "レトロマン語(Rhaeto-Romance)"
+    "label": "Rhaeto-Romance"
   },
   {
     "value": "raj",
-    "label": "ラージャスターニー語(Rajasthani)"
+    "label": "Rajasthani"
   },
   {
     "value": "rap",
-    "label": "ラパヌーイ語(Rapanui)"
+    "label": "Rapanui"
   },
   {
     "value": "rar",
@@ -1449,15 +1449,15 @@
   },
   {
     "value": "roa",
-    "label": "ロマンス諸語(Romance (Other))"
+    "label": "Romance (Other)"
   },
   {
     "value": "rom",
-    "label": "ロマニ語(Romani)"
+    "label": "Romani"
   },
   {
     "value": "run",
-    "label": "ルンディ語(Rundi)"
+    "label": "Rundi"
   },
   {
     "value": "smn",
@@ -1477,7 +1477,7 @@
   },
   {
     "value": "ssa",
-    "label": "ナイロ・サハラ諸語(Nilo-Saharan (Other))"
+    "label": "Nilo-Saharan (Other)"
   },
   {
     "value": "sme",
@@ -1485,31 +1485,31 @@
   },
   {
     "value": "sal",
-    "label": "サリシュ語族(Salishan languages)"
+    "label": "Salishan languages"
   },
   {
     "value": "sam",
-    "label": "サマリア語(Samaritan Aramic)"
+    "label": "Samaritan Aramic"
   },
   {
     "value": "smo",
-    "label": "サモア語(Samoan)"
+    "label": "Samoan"
   },
   {
     "value": "sad",
-    "label": "サンダウェ語(Sandawe)"
+    "label": "Sandawe"
   },
   {
     "value": "sag",
-    "label": "サンゴ語(Sango (Ubangi Creole))"
+    "label": "Sango (Ubangi Creole)"
   },
   {
     "value": "san",
-    "label": "梵語(Sanskrit)"
+    "label": "Sanskrit"
   },
   {
     "value": "sat",
-    "label": "サンターリー語(Santali)"
+    "label": "Santali"
   },
   {
     "value": "srd",
@@ -1517,23 +1517,23 @@
   },
   {
     "value": "sas",
-    "label": "ササク語(Sasak)"
+    "label": "Sasak"
   },
   {
     "value": "sco",
-    "label": "スコットランド語(Scots)"
+    "label": "Scots"
   },
   {
     "value": "sel",
-    "label": "セリクプ語(Selkup)"
+    "label": "Selkup"
   },
   {
     "value": "sem",
-    "label": "セム諸語(Semitic (Other))"
+    "label": "Semitic (Other)"
   },
   {
     "value": "srp",
-    "label": "セルビア語(Serbian)"
+    "label": "Serbian"
   },
   {
     "value": "scn",
@@ -1549,11 +1549,11 @@
   },
   {
     "value": "shn",
-    "label": "シャン語(Shan)"
+    "label": "Shan"
   },
   {
     "value": "sna",
-    "label": "ショナ語(Shona)"
+    "label": "Shona"
   },
   {
     "value": "sid",
@@ -1561,23 +1561,23 @@
   },
   {
     "value": "sgn",
-    "label": "手まね言語(Sign languages)"
+    "label": "Sign languages"
   },
   {
     "value": "snd",
-    "label": "シンディー語(Sindhi)"
+    "label": "Sindhi"
   },
   {
     "value": "sin",
-    "label": "シンハリーズ語(Sinhalese)"
+    "label": "Sinhalese"
   },
   {
     "value": "sit",
-    "label": "シナ・チベット諸語(Sino-Tibetan (Other))"
+    "label": "Sino-Tibetan (Other)"
   },
   {
     "value": "sio",
-    "label": "スー語族(Siouan languages)"
+    "label": "Siouan languages"
   },
   {
     "value": "sms",
@@ -1585,23 +1585,23 @@
   },
   {
     "value": "sla",
-    "label": "スラブ諸語(Slavic (Other))"
+    "label": "Slavic (Other)"
   },
   {
     "value": "slo",
-    "label": "スロヴァキア語(Slovak)"
+    "label": "Slovak"
   },
   {
     "value": "slv",
-    "label": "スロヴェニア語(Slovenian)"
+    "label": "Slovenian"
   },
   {
     "value": "sog",
-    "label": "ソグド語(Sogdian)"
+    "label": "Sogdian"
   },
   {
     "value": "som",
-    "label": "ソマリ語(Somali)"
+    "label": "Somali"
   },
   {
     "value": "son",
@@ -1609,15 +1609,15 @@
   },
   {
     "value": "snk",
-    "label": "ソニンケ語(Soninke)"
+    "label": "Soninke"
   },
   {
     "value": "sot",
-    "label": "ソト語(Sotho)"
+    "label": "Sotho"
   },
   {
     "value": "sai",
-    "label": "南米インディアン諸語(South American Indian (Other))"
+    "label": "South American Indian (Other)"
   },
   {
     "value": "sma",
@@ -1629,35 +1629,35 @@
   },
   {
     "value": "sux",
-    "label": "シュメール語(Sumerian)"
+    "label": "Sumerian"
   },
   {
     "value": "sun",
-    "label": "スンダ語(Sundanese)"
+    "label": "Sundanese"
   },
   {
     "value": "sus",
-    "label": "スス語(Susu)"
+    "label": "Susu"
   },
   {
     "value": "swa",
-    "label": "スワヒリ語(Swahili)"
+    "label": "Swahili"
   },
   {
     "value": "ssw",
-    "label": "スワージ語(Swazi)"
+    "label": "Swazi"
   },
   {
     "value": "swe",
-    "label": "スウェーデン語(Swedish)"
+    "label": "Swedish"
   },
   {
     "value": "syc",
-    "label": "シリア語(Syriac)"
+    "label": "Syriac"
   },
   {
     "value": "syr",
-    "label": "現代シリア語(Syriac,Modern)"
+    "label": "Syriac,Modern"
   },
   {
     "value": "sah",
@@ -1665,39 +1665,39 @@
   },
   {
     "value": "tut",
-    "label": "アルタイ諸語(Altaic (Other))"
+    "label": "Altaic (Other)"
   },
   {
     "value": "tgl",
-    "label": "タガログ語(Tagalog)"
+    "label": "Tagalog"
   },
   {
     "value": "tah",
-    "label": "タヒチ語(Tahitian)"
+    "label": "Tahitian"
   },
   {
     "value": "tai",
-    "label": "タイ諸語(Tai (Other))"
+    "label": "Tai (Other)"
   },
   {
     "value": "tgk",
-    "label": "タジク語(Tajik)"
+    "label": "Tajik"
   },
   {
     "value": "tmh",
-    "label": "タマシェク語(Tamashek)"
+    "label": "Tamashek"
   },
   {
     "value": "tam",
-    "label": "タミル語(Tamil)"
+    "label": "Tamil"
   },
   {
     "value": "tat",
-    "label": "タタール語(Tatar)"
+    "label": "Tatar"
   },
   {
     "value": "tel",
-    "label": "テルグ語(Telugu)"
+    "label": "Telugu"
   },
   {
     "value": "tem",
@@ -1713,23 +1713,23 @@
   },
   {
     "value": "tib",
-    "label": "チベット語(Tibetan)"
+    "label": "Tibetan"
   },
   {
     "value": "tig",
-    "label": "ティグレ語(Tigre)"
+    "label": "Tigre"
   },
   {
     "value": "tir",
-    "label": "ティグリニア語(Tigrinya)"
+    "label": "Tigrinya"
   },
   {
     "value": "tiv",
-    "label": "ティブ語(Tivi)"
+    "label": "Tivi"
   },
   {
     "value": "tli",
-    "label": "トリンギット語(Tlingit)"
+    "label": "Tlingit"
   },
   {
     "value": "tlh",
@@ -1741,11 +1741,11 @@
   },
   {
     "value": "tkl",
-    "label": "トケラウ語(Tokelauan)"
+    "label": "Tokelauan"
   },
   {
     "value": "tog",
-    "label": "トンガ語(ニアサ)(Tonga (Nyasa))"
+    "label": "Tonga (Nyasa)"
   },
   {
     "value": "ton",
@@ -1753,7 +1753,7 @@
   },
   {
     "value": "tsi",
-    "label": "チムシュ語(Tsimshian)"
+    "label": "Tsimshian"
   },
   {
     "value": "tso",
@@ -1761,7 +1761,7 @@
   },
   {
     "value": "tsn",
-    "label": "ツワナ語(Tswana)"
+    "label": "Tswana"
   },
   {
     "value": "tum",
@@ -1773,15 +1773,15 @@
   },
   {
     "value": "tur",
-    "label": "トルコ語(Turkish)"
+    "label": "Turkish"
   },
   {
     "value": "tuk",
-    "label": "トゥルクメン語(Turkmen)"
+    "label": "Turkmen"
   },
   {
     "value": "tvl",
-    "label": "ツバル語(Tuvaluan)"
+    "label": "Tuvaluan"
   },
   {
     "value": "tyv",
@@ -1789,7 +1789,7 @@
   },
   {
     "value": "twi",
-    "label": "トウィ語(Twi)"
+    "label": "Twi"
   },
   {
     "value": "udm",
@@ -1797,43 +1797,43 @@
   },
   {
     "value": "uga",
-    "label": "ウガリット語(Ugaritic)"
+    "label": "Ugaritic"
   },
   {
     "value": "uig",
-    "label": "ウイグル語(Uighur)"
+    "label": "Uighur"
   },
   {
     "value": "ukr",
-    "label": "ウクライナ語(Ukrainian)"
+    "label": "Ukrainian"
   },
   {
     "value": "umb",
-    "label": "アンブンドゥ語(Umbundu)"
+    "label": "Umbundu"
   },
   {
     "value": "urd",
-    "label": "ウルドゥー語(Urdu)"
+    "label": "Urdu"
   },
   {
     "value": "uzb",
-    "label": "ウズベク語(Uzbek)"
+    "label": "Uzbek"
   },
   {
     "value": "und",
-    "label": "[言語名不明](Undetermined)"
+    "label": "Undetermined"
   },
   {
     "value": "vai",
-    "label": "ヴァイ語(Vai)"
+    "label": "Vai"
   },
   {
     "value": "ven",
-    "label": "ベンダ語(Venda)"
+    "label": "Venda"
   },
   {
     "value": "vie",
-    "label": "ベトナム語(Vietnamese)"
+    "label": "Vietnamese"
   },
   {
     "value": "vol",
@@ -1841,15 +1841,15 @@
   },
   {
     "value": "vot",
-    "label": "ヴォート語(Votic)"
+    "label": "Votic"
   },
   {
     "value": "wen",
-    "label": "ソルビア諸語(Sorbian (Other))"
+    "label": "Sorbian (Other)"
   },
   {
     "value": "wak",
-    "label": "ワカシ語族(Wakashan languages)"
+    "label": "Wakashan languages"
   },
   {
     "value": "wal",
@@ -1857,7 +1857,7 @@
   },
   {
     "value": "wln",
-    "label": "ワロン語(walloon)"
+    "label": "walloon"
   },
   {
     "value": "war",
@@ -1869,11 +1869,11 @@
   },
   {
     "value": "wel",
-    "label": "ウェールズ語(Welsh)"
+    "label": "Welsh"
   },
   {
     "value": "wol",
-    "label": "ウォロフ語(Wolof)"
+    "label": "Wolof"
   },
   {
     "value": "xal",
@@ -1881,23 +1881,23 @@
   },
   {
     "value": "xho",
-    "label": "ホサ語(Xhosa)"
+    "label": "Xhosa"
   },
   {
     "value": "yao",
-    "label": "ヤオ語(Yao (Africa))"
+    "label": "Yao (Africa)"
   },
   {
     "value": "yap",
-    "label": "ヤップ語(Yap)"
+    "label": "Yap"
   },
   {
     "value": "yid",
-    "label": "イディッシュ語(Yiddish)"
+    "label": "Yiddish"
   },
   {
     "value": "yor",
-    "label": "ヨルバ語(Yoruba)"
+    "label": "Yoruba"
   },
   {
     "value": "ypk",
@@ -1913,7 +1913,7 @@
   },
   {
     "value": "zap",
-    "label": "ザポテック語(Zapotec)"
+    "label": "Zapotec"
   },
   {
     "value": "zen",
@@ -1921,7 +1921,7 @@
   },
   {
     "value": "zul",
-    "label": "ズールー語(Zulu)"
+    "label": "Zulu"
   },
   {
     "value": "zha",
@@ -1929,7 +1929,7 @@
   },
   {
     "value": "zun",
-    "label": "ズニ語(Zuni)"
+    "label": "Zuni"
   },
   {
     "value": "zxx",

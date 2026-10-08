@@ -3,10 +3,9 @@ import terminalLink from "terminal-link";
 import type { SearchResult } from "./opac";
 import { formatHoldings } from "./holdings-table";
 export function resultLines(
-  result: SearchResult | undefined,
+  result: SearchResult,
   width: number,
 ): string[] {
-  if (!result) return ["検索条件を入力してEnterで検索してください。"];
   const lines: string[] = [];
   for (const [i, b] of result.books.entries()) {
     lines.push(
@@ -22,7 +21,7 @@ export function resultLines(
     );
     if (b.holdingsError)
       lines.push(
-        ...wrapAnsi(`所蔵情報取得失敗: ${b.holdingsError}`, width, {
+        ...wrapAnsi(`Holdings retrieval failed: ${b.holdingsError}`, width, {
           hard: true,
         }).split("\n"),
       );
@@ -30,25 +29,14 @@ export function resultLines(
       lines.push(...formatHoldings(b.holdings, width).split("\n"));
     lines.push("");
   }
-  if (!result.books.length) lines.push("該当する資料はありません。");
+  if (!result.books.length) lines.push("No matching records found.");
   if (result.books.some((b) => b.holdings?.some((h) => !h.status)))
     lines.push(
       ...wrapAnsi(
-        "— はOPACの空欄です。状態の空欄から貸出可否は判断していません。",
+        "— denotes a blank OPAC field. A blank status does not indicate availability.",
         width,
         { hard: true },
       ).split("\n"),
     );
   return lines;
-}
-export function viewport(
-  lines: string[],
-  offset: number,
-  height: number,
-): { offset: number; lines: string[] } {
-  const start = Math.max(
-    0,
-    Math.min(offset, Math.max(0, lines.length - height)),
-  );
-  return { offset: start, lines: lines.slice(start, start + height) };
 }

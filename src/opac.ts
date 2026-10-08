@@ -90,7 +90,7 @@ export function parseSearchResult(
       : undefined;
   if (total === undefined || (total > 0 && books.length === 0))
     throw new Error(
-      "検索結果を認識できません。OPACのエラー・セッション切れ・HTML変更の可能性があります",
+      "Unrecognized search results. The OPAC may have returned an error, the session may have expired, or the HTML may have changed",
     );
   return { total, books, searchUrl };
 }
@@ -129,20 +129,20 @@ export function parseHoldings(html: string): {
   ) {
     if (match && Number(match[1]!.replaceAll(",", "")) === 0)
       return { total: 0, holdings: [] };
-    throw new Error("所蔵一覧を認識できません（OPACのエラーまたはHTML変更）");
+    throw new Error("Unrecognized holdings list (OPAC error or HTML change)");
   }
   const holdings: Holding[] = [];
   table.find("tr").each((_, row) => {
     const cells = $(row).children("td");
     if (!cells.length) return;
     if (cells.length < headings.length)
-      throw new Error("所蔵一覧の列が不足しています");
+      throw new Error("The holdings list is missing columns");
     const h = {} as Holding;
     for (const [key, label] of Object.entries(fields))
       h[key as keyof Holding] = clean(cells.eq(headings.indexOf(label)).text());
     holdings.push(h);
   });
-  if (!match) throw new Error("所蔵一覧の総件数を認識できません");
+  if (!match) throw new Error("Unrecognized holdings total");
   return { total: Number(match[1]!.replaceAll(",", "")), holdings };
 }
 
@@ -184,11 +184,11 @@ export class OpacClient {
         headers,
         signal: AbortSignal.timeout(30000),
       });
-      if (!response.ok) throw new Error(`所蔵情報: HTTP ${response.status}`);
+      if (!response.ok) throw new Error(`Holdings: HTTP ${response.status}`);
       const page = parseHoldings(await response.text());
       total = page.total;
       if (total > rows.length && !page.holdings.length)
-        throw new Error("所蔵一覧の続きが取得できません");
+        throw new Error("Could not retrieve the remaining holdings");
       if (
         start > 1 &&
         page.holdings.some(
@@ -196,7 +196,7 @@ export class OpacClient {
             h.materialId && rows.some((r) => r.materialId === h.materialId),
         )
       )
-        throw new Error("所蔵一覧のページ送りを確認できません");
+        throw new Error("Could not verify holdings pagination");
       rows.push(...page.holdings);
       start += page.holdings.length;
     }
@@ -227,7 +227,7 @@ export class OpacClient {
         headers,
         signal: AbortSignal.timeout(30000),
       });
-      if (!top.ok) throw new Error(`OPACトップページ: HTTP ${top.status}`);
+      if (!top.ok) throw new Error(`OPAC home page: HTTP ${top.status}`);
       const cookies = top.headers
         .getSetCookie()
         .map((c) => c.split(";")[0])
@@ -243,7 +243,7 @@ export class OpacClient {
         body: form,
         signal: AbortSignal.timeout(30000),
       });
-      if (!response.ok) throw new Error(`OPAC検索: HTTP ${response.status}`);
+      if (!response.ok) throw new Error(`OPAC search: HTTP ${response.status}`);
       const html = await response.text();
       result = parseSearchResult(html);
       const $ = load(html);
@@ -260,11 +260,11 @@ export class OpacClient {
     }
     const totalPages = Math.max(1, Math.ceil(result.total / pageSize));
     if (page > totalPages)
-      throw new Error(`ページは1〜${totalPages}の範囲で指定してください`);
+      throw new Error(`Page must be in the range 1-${totalPages}`);
     const start = (page - 1) * pageSize + 1;
     if (page > 1) {
       if (!this.session!.formKey)
-        throw new Error("ページ移動用の検索セッションを取得できません");
+        throw new Error("Could not obtain a search session for pagination");
       form.set("initFlg", "_RESULT_SET_NOTBIB");
       form.set("formkeyno", this.session!.formKey);
       form.set("hitcnt", String(result.total));
@@ -276,7 +276,7 @@ export class OpacClient {
         signal: AbortSignal.timeout(30000),
       });
       if (!response.ok)
-        throw new Error(`OPACページ取得: HTTP ${response.status}`);
+        throw new Error(`OPAC page retrieval: HTTP ${response.status}`);
       const html = await response.text();
       result = parseSearchResult(html);
       const actualStart = Number(
@@ -287,7 +287,7 @@ export class OpacClient {
       );
       if (actualStart !== start)
         throw new Error(
-          "指定ページを取得できません。検索セッションが切れた可能性があります",
+          "Could not retrieve the requested page. The search session may have expired",
         );
     }
     result.pagination = {
