@@ -7,7 +7,7 @@ Search the Kagawa Kosen library catalog with the `klib` CLI or an agent Skill. R
 Install `klib` from the local checkout:
 
 ```sh
-bun install --global /Users/mothue/Desktop/projects/knct-lib-mcp
+bun install --global .
 ```
 
 Install the Skill from the project where your agent works:
